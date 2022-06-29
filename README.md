@@ -1,4 +1,4 @@
-# Data_Science_-alary
+# Data_Science_Salary
 
 - Description of the communication protocols 
 - Outline of the project (this may include images, but should be easy to follow and digest)
