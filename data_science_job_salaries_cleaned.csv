@@ -1,246 +1,246 @@
-work_year,job_title,salary,salary_currency,salary_in_usd,company_location
-2021,Data Science Consultant,54000,EUR,64369,DE
-2020,Data Scientist,60000,EUR,68428,US
-2021,Head of Data Science,85000,USD,85000,RU
-2021,Head of Data,230000,USD,230000,RU
-2021,Machine Learning Engineer,125000,USD,125000,US
-2021,Data Analytics Manager,120000,USD,120000,US
-2020,Research Scientist,450000,USD,450000,US
-2020,Data Analyst,41000,EUR,46759,FR
-2020,Data Engineer,65000,EUR,74130,AT
-2021,Data Science Engineer,159500,CAD,127543,CA
-2021,Manager Data Science,144000,USD,144000,US
-2021,Data Scientist,13400,USD,13400,UA
-2021,Data Scientist,95000,CAD,75966,CA
-2021,Data Scientist,150000,USD,150000,US
-2020,Data Science Consultant,103000,USD,103000,US
-2021,Data Engineering Manager,153000,USD,153000,US
-2021,Data Engineer,90000,USD,90000,US
-2021,Data Analyst,90000,USD,90000,US
-2021,Data Analyst,60000,USD,60000,US
-2021,Data Scientist,50000,USD,50000,NG
-2021,AI Scientist,12000,USD,12000,US
-2021,3D Computer Vision Researcher,400000,INR,5423,IN
-2021,ML Engineer,270000,USD,270000,US
-2021,Applied Data Scientist,68000,CAD,54376,CA
-2021,Machine Learning Engineer,40000,EUR,47681,ES
-2021,Director of Data Science,130000,EUR,154963,PL
-2021,Data Engineer,110000,PLN,28801,PL
-2021,Data Analytics Engineer,110000,USD,110000,US
-2021,Research Scientist,60000,GBP,83000,GB
-2020,Machine Learning Engineer,250000,USD,250000,US
-2021,Data Analyst,50000,EUR,59601,FR
-2021,Data Analyst,80000,USD,80000,US
-2020,Data Analyst,10000,USD,10000,NG
-2020,Machine Learning Engineer,138000,USD,138000,US
-2021,Data Engineer,140000,USD,140000,US
-2021,Data Analytics Engineer,67000,EUR,79866,DE
-2021,Lead Data Analyst,170000,USD,170000,US
-2021,Data Analyst,80000,USD,80000,US
-2020,Data Scientist,45760,USD,45760,US
-2021,BI Data Analyst,100000,USD,100000,US
-2021,Data Scientist,45000,EUR,53641,FR
-2021,Head of Data,235000,USD,235000,US
-2021,BI Data Analyst,150000,USD,150000,US
-2020,Data Engineering Manager,70000,EUR,79833,ES
-2021,Machine Learning Scientist,225000,USD,225000,US
-2021,Data Science Consultant,65000,EUR,77481,DE
-2020,Machine Learning Infrastructure Engineer,44000,EUR,50180,PT
-2021,Marketing Data Analyst,75000,EUR,89402,DK
-2021,Lead Data Engineer,75000,GBP,103750,GB
-2021,Director of Data Engineering,82500,GBP,114125,GB
-2021,Machine Learning Engineer,80000,EUR,95362,DE
-2021,Data Engineer,2250000,INR,30509,IN
-2021,Data Engineer,150000,USD,150000,US
-2021,Data Engineer,115000,USD,115000,US
-2021,Research Scientist,235000,CAD,187917,CA
-2021,Data Analyst,37456,GBP,51814,GB
-2020,Data Engineer,106000,USD,106000,US
-2020,Data Engineer,88000,GBP,112872,GB
-2021,BI Data Analyst,11000000,HUF,36732,US
-2021,Data Engineer,150000,USD,150000,US
-2020,ML Engineer,14000,EUR,15966,DE
-2021,Computer Vision Software Engineer,81000,EUR,96554,US
-2021,Computer Vision Software Engineer,70000,USD,70000,US
-2021,Financial Data Analyst,450000,USD,450000,US
-2020,Data Scientist,60000,GBP,76958,GB
-2021,Cloud Data Engineer,120000,SGD,89514,SG
-2021,Data Scientist,2200000,INR,29831,IN
-2021,Lead Data Engineer,276000,USD,276000,US
-2020,Data Engineer,188000,USD,188000,US
-2021,Cloud Data Engineer,160000,USD,160000,US
-2020,Data Scientist,105000,USD,105000,US
-2021,Data Engineer,200000,USD,200000,US
-2021,Data Engineering Manager,174000,USD,174000,US
-2021,Data Analyst,93000,USD,93000,US
-2021,Data Scientist,2100000,INR,28475,IN
-2021,Research Scientist,51400,EUR,61270,PT
-2021,Data Scientist,90000,USD,90000,US
-2020,Data Engineer,61500,EUR,70139,FR
-2020,Data Analyst,450000,INR,6072,IN
-2020,Data Engineer,720000,MXN,33511,MX
-2021,Principal Data Analyst,170000,USD,170000,US
-2021,Data Engineer,70000,GBP,96833,GB
-2021,Data Engineer,108000,TRY,13105,TR
-2021,Data Scientist,31000,EUR,36952,FR
-2021,Data Engineer,52500,GBP,72625,GB
-2020,Data Analyst,91000,USD,91000,US
-2021,Big Data Architect,125000,CAD,99956,CA
-2021,Data Scientist,165000,USD,165000,US
-2021,Data Analyst,80000,USD,80000,US
-2021,Data Scientist,130000,CAD,103954,CA
-2021,Data Engineer,1600000,INR,21695,IN
-2020,Research Scientist,42000,USD,42000,NL
-2020,Lead Data Scientist,115000,USD,115000,AE
-2021,Research Scientist,80000,CAD,63971,CA
-2020,Machine Learning Scientist,260000,USD,260000,JP
-2021,Head of Data Science,110000,USD,110000,US
-2021,Data Architect,180000,USD,180000,US
-2021,Data Analyst,200000,USD,200000,US
-2020,Big Data Engineer,85000,GBP,109024,GB
-2021,Director of Data Engineering,200000,USD,200000,US
-2021,ML Engineer,256000,USD,256000,US
-2021,Data Engineer,110000,USD,110000,US
-2020,Data Scientist,70000,EUR,79833,DE
-2021,Data Engineer,72500,USD,72500,US
-2021,Machine Learning Engineer,185000,USD,185000,US
-2021,Data Engineer,59000,EUR,70329,NL
-2021,Research Scientist,100000,USD,100000,CN
-2021,Data Engineer,112000,USD,112000,US
-2020,Machine Learning Engineer,150000,USD,150000,US
-2021,Data Scientist,180000,TRY,21843,TR
-2021,AI Scientist,55000,USD,55000,ES
-2021,Data Scientist,58000,USD,58000,US
-2021,Data Scientist,100000,USD,100000,US
-2021,Data Scientist,65720,EUR,78340,FR
-2021,Machine Learning Engineer,85000,USD,85000,DE
-2021,Data Science Consultant,65000,EUR,77481,DE
-2021,Staff Data Scientist,105000,USD,105000,US
-2020,Data Analyst,72000,USD,72000,US
-2021,Data Engineer,55000,EUR,65561,DE
-2021,Data Engineer,250000,TRY,30337,TR
-2021,Data Engineer,111775,USD,111775,US
-2021,Data Engineer,93150,USD,93150,US
-2021,Lead Data Engineer,160000,USD,160000,US
-2021,Data Scientist,21600,EUR,25747,DE
-2021,Machine Learning Engineer,4900000,INR,66442,IN
-2021,Data Scientist,1250000,INR,16949,IN
-2021,Data Analyst,54000,EUR,64369,DE
-2020,Lead Data Scientist,190000,USD,190000,US
-2021,Director of Data Science,120000,EUR,143043,DE
-2021,Big Data Engineer,1200000,INR,16271,IN
-2021,Data Analyst,90000,CAD,71968,CA
-2020,Data Scientist,11000000,HUF,35735,HU
-2021,Data Scientist,135000,USD,135000,US
-2021,Machine Learning Engineer,21000,EUR,25032,DE
-2021,Data Science Manager,4000000,INR,54238,US
-2021,Machine Learning Engineer,1799997,INR,24407,IN
-2021,BI Data Analyst,9272,USD,9272,KE
-2021,Data Scientist,147000,USD,147000,US
-2021,Research Scientist,120500,CAD,96357,CA
-2021,Data Science Manager,174000,USD,174000,US
-2020,Business Data Analyst,135000,USD,135000,US
-2021,Machine Learning Engineer,21844,USD,21844,CO
-2020,Lead Data Engineer,125000,USD,125000,NZ
-2020,Data Scientist,45000,EUR,51321,FR
-2020,Data Scientist,3000000,INR,40481,IN
-2021,Data Science Consultant,59000,EUR,70329,ES
-2021,Data Analytics Engineer,50000,USD,50000,GB
-2021,Data Engineer,4000,USD,4000,IR
-2020,Data Scientist,35000,EUR,39916,FR
-2020,Lead Data Analyst,87000,USD,87000,US
-2021,Data Engineer,22000,EUR,26224,US
-2021,Data Scientist,76760,EUR,91500,DE
-2021,Big Data Engineer,1672000,INR,22671,IN
-2021,Data Scientist,420000,INR,5695,US
-2021,Machine Learning Engineer,81000,USD,81000,US
-2021,Data Scientist,30400000,CLP,40798,CL
-2021,Data Scientist,58000,MXN,2876,MX
-2021,Data Science Consultant,90000,USD,90000,US
-2021,Data Scientist,52000,EUR,61985,AT
-2021,Machine Learning Infrastructure Engineer,195000,USD,195000,US
-2021,Data Scientist,32000,EUR,38144,ES
-2020,Data Analyst,85000,USD,85000,US
-2021,Principal Data Scientist,416000,USD,416000,US
-2021,Machine Learning Scientist,225000,USD,225000,CA
-2021,Data Scientist,40900,GBP,56578,GB
-2021,Data Scientist,2500000,INR,33899,IN
-2021,Data Scientist,85000,GBP,117583,GB
-2021,Machine Learning Engineer,180000,PLN,47129,PL
-2020,Data Analyst,8000,USD,8000,PK
-2020,Data Engineer,4450000,JPY,41689,JP
-2020,Big Data Engineer,100000,EUR,114047,GB
-2021,Machine Learning Engineer,75000,EUR,89402,BE
-2020,Data Science Consultant,423000,INR,5707,IN
-2020,Lead Data Engineer,56000,USD,56000,US
-2021,Computer Vision Engineer,180000,DKK,28850,DK
-2021,Data Scientist,75000,EUR,89402,DE
-2020,Machine Learning Engineer,299000,CNY,43331,CN
-2020,Product Data Analyst,450000,INR,6072,IN
-2020,Data Engineer,42000,EUR,47899,GR
-2020,BI Data Analyst,98000,USD,98000,US
-2021,Data Engineer,48000,GBP,66400,GB
-2021,Research Scientist,48000,EUR,57217,FR
-2021,Machine Learning Engineer,21000,EUR,25032,SI
-2021,Data Analytics Manager,120000,USD,120000,US
-2021,Data Engineer,20000,USD,20000,US
-2020,Director of Data Science,325000,USD,325000,US
-2021,Machine Learning Engineer,200000,USD,200000,US
-2020,AI Scientist,300000,DKK,45896,DK
-2021,Data Scientist,160000,USD,160000,US
-2021,Research Scientist,50000,USD,50000,US
-2021,Data Science Engineer,34000,EUR,40529,GR
-2021,Principal Data Engineer,600000,USD,600000,US
-2021,Data Scientist,69600,BRL,13000,BR
-2021,Data Engineer,165000,USD,165000,US
-2021,Big Data Engineer,435000,INR,5898,CH
-2020,Data Scientist,37000,EUR,42197,FR
-2021,Principal Data Engineer,185000,USD,185000,US
-2020,Data Scientist,55000,EUR,62726,DE
-2021,Data Scientist,76760,EUR,91500,DE
-2020,Data Scientist,19000,EUR,21669,IT
-2020,Data Engineer,110000,USD,110000,US
-2021,Data Analytics Manager,140000,USD,140000,US
-2020,Data Scientist,120000,USD,120000,US
-2021,Data Scientist,110000,CAD,87961,CA
-2021,Finance Data Analyst,45000,GBP,62250,GB
-2021,Machine Learning Scientist,12000,USD,12000,PK
-2021,Data Engineer,65000,EUR,77481,GB
-2021,Machine Learning Engineer,74000,USD,74000,JP
-2021,Data Science Manager,152000,USD,152000,FR
-2021,Big Data Engineer,18000,USD,18000,MD
-2020,Computer Vision Engineer,60000,USD,60000,US
-2021,Data Scientist,130000,USD,130000,US
-2021,Computer Vision Engineer,102000,BRL,19052,BR
-2021,Business Data Analyst,50000,EUR,59601,LU
-2021,Principal Data Scientist,147000,EUR,175228,DE
-2020,Principal Data Scientist,130000,EUR,148261,DE
-2020,Data Scientist,34000,EUR,38776,ES
-2021,Data Scientist,39600,EUR,47204,ES
-2021,Data Scientist,4000,USD,4000,VN
-2021,AI Scientist,1335000,INR,18102,AS
-2020,Data Scientist,80000,EUR,91237,AT
-2020,Data Scientist,55000,EUR,62726,LU
-2021,Data Scientist,115000,USD,115000,US
-2021,Principal Data Scientist,235000,USD,235000,US
-2021,Lead Data Analyst,1450000,INR,19661,IN
-2021,AI Scientist,12000,USD,12000,US
-2021,Data Analyst,75000,USD,75000,US
-2021,Data Analyst,62000,USD,62000,US
-2021,Data Scientist,73000,USD,73000,US
-2021,Data Engineer,38400,EUR,45773,NL
-2020,Data Science Manager,190200,USD,190200,US
-2020,Data Scientist,118000,USD,118000,US
-2020,Data Scientist,138350,USD,138350,US
-2020,Data Engineer,130800,USD,130800,US
-2020,Machine Learning Engineer,40000,EUR,45618,HR
-2021,Director of Data Science,168000,USD,168000,JP
-2021,Data Scientist,160000,SGD,119353,IL
-2021,Applied Machine Learning Scientist,423000,USD,423000,US
-2021,Data Engineer,24000,EUR,28608,MT
-2021,Data Specialist,165000,USD,165000,US
-2020,Data Scientist,412000,USD,412000,US
-2021,Principal Data Scientist,151000,USD,151000,US
-2020,Data Scientist,105000,USD,105000,US
-2020,Business Data Analyst,100000,USD,100000,US
-2021,Data Science Manager,7000000,INR,94917,IN
+work_year,job_title,salary_currency,salary_in_usd,company_location
+2021,Data Science Consultant,EUR,"$64,369.00",DE
+2020,Data Scientist,EUR,"$68,428.00",US
+2021,Head of Data Science,USD,"$85,000.00",RU
+2021,Head of Data,USD,"$230,000.00",RU
+2021,Machine Learning Engineer,USD,"$125,000.00",US
+2021,Data Analytics Manager,USD,"$120,000.00",US
+2020,Research Scientist,USD,"$450,000.00",US
+2020,Data Analyst,EUR,"$46,759.00",FR
+2020,Data Engineer,EUR,"$74,130.00",AT
+2021,Data Science Engineer,CAD,"$127,543.00",CA
+2021,Manager Data Science,USD,"$144,000.00",US
+2021,Data Scientist,USD,"$13,400.00",UA
+2021,Data Scientist,CAD,"$75,966.00",CA
+2021,Data Scientist,USD,"$150,000.00",US
+2020,Data Science Consultant,USD,"$103,000.00",US
+2021,Data Engineering Manager,USD,"$153,000.00",US
+2021,Data Engineer,USD,"$90,000.00",US
+2021,Data Analyst,USD,"$90,000.00",US
+2021,Data Analyst,USD,"$60,000.00",US
+2021,Data Scientist,USD,"$50,000.00",NG
+2021,AI Scientist,USD,"$12,000.00",US
+2021,3D Computer Vision Researcher,INR,"$5,423.00",IN
+2021,ML Engineer,USD,"$270,000.00",US
+2021,Applied Data Scientist,CAD,"$54,376.00",CA
+2021,Machine Learning Engineer,EUR,"$47,681.00",ES
+2021,Director of Data Science,EUR,"$154,963.00",PL
+2021,Data Engineer,PLN,"$28,801.00",PL
+2021,Data Analytics Engineer,USD,"$110,000.00",US
+2021,Research Scientist,GBP,"$83,000.00",GB
+2020,Machine Learning Engineer,USD,"$250,000.00",US
+2021,Data Analyst,EUR,"$59,601.00",FR
+2021,Data Analyst,USD,"$80,000.00",US
+2020,Data Analyst,USD,"$10,000.00",NG
+2020,Machine Learning Engineer,USD,"$138,000.00",US
+2021,Data Engineer,USD,"$140,000.00",US
+2021,Data Analytics Engineer,EUR,"$79,866.00",DE
+2021,Lead Data Analyst,USD,"$170,000.00",US
+2021,Data Analyst,USD,"$80,000.00",US
+2020,Data Scientist,USD,"$45,760.00",US
+2021,BI Data Analyst,USD,"$100,000.00",US
+2021,Data Scientist,EUR,"$53,641.00",FR
+2021,Head of Data,USD,"$235,000.00",US
+2021,BI Data Analyst,USD,"$150,000.00",US
+2020,Data Engineering Manager,EUR,"$79,833.00",ES
+2021,Machine Learning Scientist,USD,"$225,000.00",US
+2021,Data Science Consultant,EUR,"$77,481.00",DE
+2020,Machine Learning Infrastructure Engineer,EUR,"$50,180.00",PT
+2021,Marketing Data Analyst,EUR,"$89,402.00",DK
+2021,Lead Data Engineer,GBP,"$103,750.00",GB
+2021,Director of Data Engineering,GBP,"$114,125.00",GB
+2021,Machine Learning Engineer,EUR,"$95,362.00",DE
+2021,Data Engineer,INR,"$30,509.00",IN
+2021,Data Engineer,USD,"$150,000.00",US
+2021,Data Engineer,USD,"$115,000.00",US
+2021,Research Scientist,CAD,"$187,917.00",CA
+2021,Data Analyst,GBP,"$51,814.00",GB
+2020,Data Engineer,USD,"$106,000.00",US
+2020,Data Engineer,GBP,"$112,872.00",GB
+2021,BI Data Analyst,HUF,"$36,732.00",US
+2021,Data Engineer,USD,"$150,000.00",US
+2020,ML Engineer,EUR,"$15,966.00",DE
+2021,Computer Vision Software Engineer,EUR,"$96,554.00",US
+2021,Computer Vision Software Engineer,USD,"$70,000.00",US
+2021,Financial Data Analyst,USD,"$450,000.00",US
+2020,Data Scientist,GBP,"$76,958.00",GB
+2021,Cloud Data Engineer,SGD,"$89,514.00",SG
+2021,Data Scientist,INR,"$29,831.00",IN
+2021,Lead Data Engineer,USD,"$276,000.00",US
+2020,Data Engineer,USD,"$188,000.00",US
+2021,Cloud Data Engineer,USD,"$160,000.00",US
+2020,Data Scientist,USD,"$105,000.00",US
+2021,Data Engineer,USD,"$200,000.00",US
+2021,Data Engineering Manager,USD,"$174,000.00",US
+2021,Data Analyst,USD,"$93,000.00",US
+2021,Data Scientist,INR,"$28,475.00",IN
+2021,Research Scientist,EUR,"$61,270.00",PT
+2021,Data Scientist,USD,"$90,000.00",US
+2020,Data Engineer,EUR,"$70,139.00",FR
+2020,Data Analyst,INR,"$6,072.00",IN
+2020,Data Engineer,MXN,"$33,511.00",MX
+2021,Principal Data Analyst,USD,"$170,000.00",US
+2021,Data Engineer,GBP,"$96,833.00",GB
+2021,Data Engineer,TRY,"$13,105.00",TR
+2021,Data Scientist,EUR,"$36,952.00",FR
+2021,Data Engineer,GBP,"$72,625.00",GB
+2020,Data Analyst,USD,"$91,000.00",US
+2021,Big Data Architect,CAD,"$99,956.00",CA
+2021,Data Scientist,USD,"$165,000.00",US
+2021,Data Analyst,USD,"$80,000.00",US
+2021,Data Scientist,CAD,"$103,954.00",CA
+2021,Data Engineer,INR,"$21,695.00",IN
+2020,Research Scientist,USD,"$42,000.00",NL
+2020,Lead Data Scientist,USD,"$115,000.00",AE
+2021,Research Scientist,CAD,"$63,971.00",CA
+2020,Machine Learning Scientist,USD,"$260,000.00",JP
+2021,Head of Data Science,USD,"$110,000.00",US
+2021,Data Architect,USD,"$180,000.00",US
+2021,Data Analyst,USD,"$200,000.00",US
+2020,Big Data Engineer,GBP,"$109,024.00",GB
+2021,Director of Data Engineering,USD,"$200,000.00",US
+2021,ML Engineer,USD,"$256,000.00",US
+2021,Data Engineer,USD,"$110,000.00",US
+2020,Data Scientist,EUR,"$79,833.00",DE
+2021,Data Engineer,USD,"$72,500.00",US
+2021,Machine Learning Engineer,USD,"$185,000.00",US
+2021,Data Engineer,EUR,"$70,329.00",NL
+2021,Research Scientist,USD,"$100,000.00",CN
+2021,Data Engineer,USD,"$112,000.00",US
+2020,Machine Learning Engineer,USD,"$150,000.00",US
+2021,Data Scientist,TRY,"$21,843.00",TR
+2021,AI Scientist,USD,"$55,000.00",ES
+2021,Data Scientist,USD,"$58,000.00",US
+2021,Data Scientist,USD,"$100,000.00",US
+2021,Data Scientist,EUR,"$78,340.00",FR
+2021,Machine Learning Engineer,USD,"$85,000.00",DE
+2021,Data Science Consultant,EUR,"$77,481.00",DE
+2021,Staff Data Scientist,USD,"$105,000.00",US
+2020,Data Analyst,USD,"$72,000.00",US
+2021,Data Engineer,EUR,"$65,561.00",DE
+2021,Data Engineer,TRY,"$30,337.00",TR
+2021,Data Engineer,USD,"$111,775.00",US
+2021,Data Engineer,USD,"$93,150.00",US
+2021,Lead Data Engineer,USD,"$160,000.00",US
+2021,Data Scientist,EUR,"$25,747.00",DE
+2021,Machine Learning Engineer,INR,"$66,442.00",IN
+2021,Data Scientist,INR,"$16,949.00",IN
+2021,Data Analyst,EUR,"$64,369.00",DE
+2020,Lead Data Scientist,USD,"$190,000.00",US
+2021,Director of Data Science,EUR,"$143,043.00",DE
+2021,Big Data Engineer,INR,"$16,271.00",IN
+2021,Data Analyst,CAD,"$71,968.00",CA
+2020,Data Scientist,HUF,"$35,735.00",HU
+2021,Data Scientist,USD,"$135,000.00",US
+2021,Machine Learning Engineer,EUR,"$25,032.00",DE
+2021,Data Science Manager,INR,"$54,238.00",US
+2021,Machine Learning Engineer,INR,"$24,407.00",IN
+2021,BI Data Analyst,USD,"$9,272.00",KE
+2021,Data Scientist,USD,"$147,000.00",US
+2021,Research Scientist,CAD,"$96,357.00",CA
+2021,Data Science Manager,USD,"$174,000.00",US
+2020,Business Data Analyst,USD,"$135,000.00",US
+2021,Machine Learning Engineer,USD,"$21,844.00",CO
+2020,Lead Data Engineer,USD,"$125,000.00",NZ
+2020,Data Scientist,EUR,"$51,321.00",FR
+2020,Data Scientist,INR,"$40,481.00",IN
+2021,Data Science Consultant,EUR,"$70,329.00",ES
+2021,Data Analytics Engineer,USD,"$50,000.00",GB
+2021,Data Engineer,USD,"$4,000.00",IR
+2020,Data Scientist,EUR,"$39,916.00",FR
+2020,Lead Data Analyst,USD,"$87,000.00",US
+2021,Data Engineer,EUR,"$26,224.00",US
+2021,Data Scientist,EUR,"$91,500.00",DE
+2021,Big Data Engineer,INR,"$22,671.00",IN
+2021,Data Scientist,INR,"$5,695.00",US
+2021,Machine Learning Engineer,USD,"$81,000.00",US
+2021,Data Scientist,CLP,"$40,798.00",CL
+2021,Data Scientist,MXN,"$2,876.00",MX
+2021,Data Science Consultant,USD,"$90,000.00",US
+2021,Data Scientist,EUR,"$61,985.00",AT
+2021,Machine Learning Infrastructure Engineer,USD,"$195,000.00",US
+2021,Data Scientist,EUR,"$38,144.00",ES
+2020,Data Analyst,USD,"$85,000.00",US
+2021,Principal Data Scientist,USD,"$416,000.00",US
+2021,Machine Learning Scientist,USD,"$225,000.00",CA
+2021,Data Scientist,GBP,"$56,578.00",GB
+2021,Data Scientist,INR,"$33,899.00",IN
+2021,Data Scientist,GBP,"$117,583.00",GB
+2021,Machine Learning Engineer,PLN,"$47,129.00",PL
+2020,Data Analyst,USD,"$8,000.00",PK
+2020,Data Engineer,JPY,"$41,689.00",JP
+2020,Big Data Engineer,EUR,"$114,047.00",GB
+2021,Machine Learning Engineer,EUR,"$89,402.00",BE
+2020,Data Science Consultant,INR,"$5,707.00",IN
+2020,Lead Data Engineer,USD,"$56,000.00",US
+2021,Computer Vision Engineer,DKK,"$28,850.00",DK
+2021,Data Scientist,EUR,"$89,402.00",DE
+2020,Machine Learning Engineer,CNY,"$43,331.00",CN
+2020,Product Data Analyst,INR,"$6,072.00",IN
+2020,Data Engineer,EUR,"$47,899.00",GR
+2020,BI Data Analyst,USD,"$98,000.00",US
+2021,Data Engineer,GBP,"$66,400.00",GB
+2021,Research Scientist,EUR,"$57,217.00",FR
+2021,Machine Learning Engineer,EUR,"$25,032.00",SI
+2021,Data Analytics Manager,USD,"$120,000.00",US
+2021,Data Engineer,USD,"$20,000.00",US
+2020,Director of Data Science,USD,"$325,000.00",US
+2021,Machine Learning Engineer,USD,"$200,000.00",US
+2020,AI Scientist,DKK,"$45,896.00",DK
+2021,Data Scientist,USD,"$160,000.00",US
+2021,Research Scientist,USD,"$50,000.00",US
+2021,Data Science Engineer,EUR,"$40,529.00",GR
+2021,Principal Data Engineer,USD,"$600,000.00",US
+2021,Data Scientist,BRL,"$13,000.00",BR
+2021,Data Engineer,USD,"$165,000.00",US
+2021,Big Data Engineer,INR,"$5,898.00",CH
+2020,Data Scientist,EUR,"$42,197.00",FR
+2021,Principal Data Engineer,USD,"$185,000.00",US
+2020,Data Scientist,EUR,"$62,726.00",DE
+2021,Data Scientist,EUR,"$91,500.00",DE
+2020,Data Scientist,EUR,"$21,669.00",IT
+2020,Data Engineer,USD,"$110,000.00",US
+2021,Data Analytics Manager,USD,"$140,000.00",US
+2020,Data Scientist,USD,"$120,000.00",US
+2021,Data Scientist,CAD,"$87,961.00",CA
+2021,Finance Data Analyst,GBP,"$62,250.00",GB
+2021,Machine Learning Scientist,USD,"$12,000.00",PK
+2021,Data Engineer,EUR,"$77,481.00",GB
+2021,Machine Learning Engineer,USD,"$74,000.00",JP
+2021,Data Science Manager,USD,"$152,000.00",FR
+2021,Big Data Engineer,USD,"$18,000.00",MD
+2020,Computer Vision Engineer,USD,"$60,000.00",US
+2021,Data Scientist,USD,"$130,000.00",US
+2021,Computer Vision Engineer,BRL,"$19,052.00",BR
+2021,Business Data Analyst,EUR,"$59,601.00",LU
+2021,Principal Data Scientist,EUR,"$175,228.00",DE
+2020,Principal Data Scientist,EUR,"$148,261.00",DE
+2020,Data Scientist,EUR,"$38,776.00",ES
+2021,Data Scientist,EUR,"$47,204.00",ES
+2021,Data Scientist,USD,"$4,000.00",VN
+2021,AI Scientist,INR,"$18,102.00",AS
+2020,Data Scientist,EUR,"$91,237.00",AT
+2020,Data Scientist,EUR,"$62,726.00",LU
+2021,Data Scientist,USD,"$115,000.00",US
+2021,Principal Data Scientist,USD,"$235,000.00",US
+2021,Lead Data Analyst,INR,"$19,661.00",IN
+2021,AI Scientist,USD,"$12,000.00",US
+2021,Data Analyst,USD,"$75,000.00",US
+2021,Data Analyst,USD,"$62,000.00",US
+2021,Data Scientist,USD,"$73,000.00",US
+2021,Data Engineer,EUR,"$45,773.00",NL
+2020,Data Science Manager,USD,"$190,200.00",US
+2020,Data Scientist,USD,"$118,000.00",US
+2020,Data Scientist,USD,"$138,350.00",US
+2020,Data Engineer,USD,"$130,800.00",US
+2020,Machine Learning Engineer,EUR,"$45,618.00",HR
+2021,Director of Data Science,USD,"$168,000.00",JP
+2021,Data Scientist,SGD,"$119,353.00",IL
+2021,Applied Machine Learning Scientist,USD,"$423,000.00",US
+2021,Data Engineer,EUR,"$28,608.00",MT
+2021,Data Specialist,USD,"$165,000.00",US
+2020,Data Scientist,USD,"$412,000.00",US
+2021,Principal Data Scientist,USD,"$151,000.00",US
+2020,Data Scientist,USD,"$105,000.00",US
+2020,Business Data Analyst,USD,"$100,000.00",US
+2021,Data Science Manager,INR,"$94,917.00",IN
