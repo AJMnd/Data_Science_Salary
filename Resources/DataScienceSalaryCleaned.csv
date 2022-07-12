@@ -1,0 +1,743 @@
+Job Title,Salary Estimate,Location,Avg Salary(K),Python,spark,aws,excel,sql,sas,keras,pytorch,scikit,tensor,hadoop,tableau,bi,flink,mongo,google_an,Degree
+Data Scientist,$53K-$91K ,"Albuquerque, NM",72.0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,M
+Healthcare Data Scientist,$63K-$112K ,"Linthicum, MD",87.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$80K-$90K ,"Clearwater, FL",85.0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$56K-$97K ,"Richland, WA",76.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$86K-$143K ,"New York, NY",114.5,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$71K-$119K ,"Dallas, TX",95.0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,na
+Data Scientist,$54K-$93K ,"Baltimore, MD",73.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$86K-$142K ,"San Jose, CA",114.0,1,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0,M
+Research Scientist,$38K-$84K ,"Rochester, NY",61.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist,$120K-$160K ,"New York, NY",140.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$126K-$201K ,"San Jose, CA",163.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$64K-$106K ,"Chantilly, VA",85.0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,na
+Staff Data Scientist - Technology,$106K-$172K ,"Plano, TX",139.0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,M
+Data Analyst,$46K-$85K ,"Seattle, WA",65.5,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,0,na
+Data Scientist,$83K-$144K ,"Cambridge, MA",113.5,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,M
+Data Engineer I,$102K-$190K ,"Newark, NJ",146.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+"Scientist I/II, Biology",$67K-$137K ,"Cambridge, MA",102.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Customer Data Scientist,$118K-$189K ,"Mountain View, CA",153.5,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,M
+Data Scientist - Health Data Analytics,$110K-$175K ,"San Francisco, CA",142.5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$64K-$111K ,"Denver, CO",87.5,1,0,0,1,1,0,1,1,1,1,0,0,0,0,0,0,M
+Data Scientist,$81K-$130K ,"Seattle, WA",105.5,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Data Scientist / Machine Learning,$73K-$119K ,"Dallas, TX",96.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist - Quantitative,$86K-$139K ,"Chicago, IL",112.5,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,M
+Data Scientist,$63K-$105K ,"Louisville, KY",84.0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,M
+Data Scientist,$109K-$177K ,"Herndon, VA",143.0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,na
+Digital Health Data Scientist,$63K-$110K ,"Cambridge, MA",86.5,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$75K-$124K ,"Hillsboro, OR",99.5,1,1,1,1,1,0,1,0,1,1,0,1,0,0,0,0,na
+Associate Data Analyst,$34K-$61K ,"Worcester, MA",47.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Clinical Data Scientist,$63K-$105K ,"Groton, CT",84.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$80K-$90K ,"Clearwater, FL",85.0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$56K-$97K ,"Richland, WA",76.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$72K-$120K ,"Detroit, MI",96.0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist / Machine Learning Expert,$86K-$143K ,"Cambridge, MA",114.5,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,na
+Data Scientist,$93K-$149K ,"Sunnyvale, CA",121.0,1,1,0,1,1,0,1,0,1,1,0,0,0,0,1,0,M
+Data Scientist,$85K-$140K ,"Ipswich, MA",112.5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Web Data Analyst,$77K-$135K ,"San Jose, CA",106.0,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,na
+Data Scientist,$82K-$132K ,"Redlands, CA",107.0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,M
+Data Scientist,$83K-$137K ,"Woburn, MA",110.0,1,1,0,1,1,0,0,1,1,1,1,0,0,0,0,0,P
+Senior Data Scientist,$115K-$180K ,"Fremont, CA",147.5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Engineer,$74K-$138K ,"Long Beach, NY",106.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+Data Analyst,$64K-$112K ,"San Francisco, CA",88.0,1,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,na
+Data Engineer,$68K-$129K ,"Marlborough, MA",98.5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist - Algorithms & Inference,$110K-$175K ,"San Francisco, CA",142.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Scientist,$52K-$113K ,"Allendale, NJ",82.5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Data Scientist,$110K-$150KEmployer est.,"Chicago, IL",130.0,1,1,0,1,1,0,0,0,1,0,1,1,1,0,0,0,M
+Data Scientist,Employer Provided Salary:$150K-$160K,"Washington, DC",155.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Lead Data Scientist,$158K-$211K ,"Bellevue, WA",184.5,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,na
+Associate Data Analyst,$20K-$39K ,"Longmont, CO",29.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Spectral Scientist/Engineer,$56K-$117K ,"Beavercreek, OH",86.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+College Hire - Data Scientist - Open to December 2019 Graduates,$63K-$99K ,"Peoria, IL",81.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,na
+Data Scientist,$68K-$114K ,"Fort Lauderdale, FL",91.0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,na
+"Data Scientist, Office of Data Science",$86K-$143K ,"Boston, MA",114.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Science Analyst,$41K-$95K ,"Huntsville, AL",68.0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,na
+Data Scientist,$86K-$144K ,"Armonk, NY",115.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$80K-$139K ,"San Diego, CA",109.5,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+Data Scientist,$56K-$95K ,"Albuquerque, NM",75.5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$120K-$189K ,"San Francisco, CA",154.5,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,P
+Data Scientist,$111K-$176K ,"Saint Louis, MO",143.5,1,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0,na
+Data Scientist,$54K-$93K ,"Baltimore, MD",73.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$71K-$119K ,"Dallas, TX",95.0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,na
+Senior Data Scientist,$82K-$132K ,"Cincinnati, OH",107.0,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,M
+Data Scientist,$84K-$146K ,"New York, NY",115.0,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,na
+Senior Risk Data Scientist,$107K-$172K ,"Palo Alto, CA",139.5,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist in Artificial Intelligence Early Career,$49K-$85K ,"Richland, WA",67.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,M
+Data Scientist,$61K-$109K ,"Coraopolis, PA",85.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,M
+Data Scientist,$88K-$148K ,"Framingham, MA",118.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist,$60K-$99K ,"Atlanta, GA",79.5,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,na
+Data Scientist - Research,$41K-$72K ,"Boston, MA",56.5,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,na
+Data Scientist,$96K-$161K ,"Philadelphia, PA",128.5,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,na
+R&D Data Analysis Scientist,$65K-$130K ,"Vancouver, WA",97.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Analytics Consultant,$52K-$81K ,"Indianapolis, IN",66.5,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,na
+"Director, Data Science",$139K-$220K ,"Lake Forest, IL",179.5,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,M
+Scientist,$50K-$102K ,"Maryland Heights, MO",76.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist SR,$85K-$139K ,"Charlottesville, VA",112.0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,M
+Data Scientist,$74K-$122K ,"Pittsburgh, PA",98.0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,M
+R&D Sr Data Scientist,$99K-$157K ,"Vancouver, WA",128.0,0,1,1,0,1,0,0,0,1,1,0,0,0,0,0,0,M
+Customer Data Scientist/Sales Engineer (Bay,$79K-$222K ,"Mountain View, CA",150.5,1,1,1,1,0,0,1,0,1,1,1,0,0,0,0,0,P
+Research Scientist,$57K-$118K ,"Cambridge, MA",87.5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$83K-$137K ,"Chantilly, VA",110.0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,na
+Data Scientist,$86K-$141K ,"San Jose, CA",113.5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$94K-$154K ,"San Francisco, CA",124.0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Jr. Business Data Analyst,$37K-$76K ,"Harrisburg, PA",56.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,na
+Data Scientist,$100K-$160K ,"Laurel, MD",130.0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Analyst,$55K-$100K ,"Chicago, IL",77.5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Data Engineer,$60K-$114K ,"Arlington, VA",87.0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Data Analyst,$39K-$68K ,"Tacoma, WA",53.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Staff Data Scientist - Technology,$106K-$172K ,"Plano, TX",139.0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,M
+Data Scientist,$86K-$142K ,"San Jose, CA",114.0,1,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0,M
+Data Scientist,$64K-$107K ,"Miami, FL",85.5,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,na
+Data Management Specialist,$31K-$65K ,"Huntsville, AL",48.0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,na
+E-Commerce Data Analyst,$34K-$62K ,"New Orleans, LA",48.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Sr. Scientist II,$117K-$231K ,"San Francisco, CA",174.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Insurance Data Scientist,$64K-$106K ,"Atlanta, GA",85.0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,na
+Data Modeler,$79K-$134K ,"Landover, MD",106.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Analyst / Scientist,$52K-$93K ,"Patuxent River, MD",72.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Scientist,$55K-$116K ,"Suitland, MD",85.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$72K-$123K ,"McLean, VA",97.5,1,0,0,1,1,1,0,0,0,0,0,1,1,0,1,0,na
+Data Scientist,$74K-$124K ,"Fort Belvoir, VA",99.0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,na
+Data Analyst,$40K-$73K ,"Milwaukee, WI",56.5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Lead Data Scientist,$102K-$164K ,"Silver Spring, MD",133.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$89K-$153K ,"New York, NY",121.0,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,na
+Data Scientist,$61K-$110K ,"Syracuse, NY",85.5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+"Data Scientist, Rice University",$65K-$110K ,"Houston, TX",87.5,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,na
+Senior Data Scientist,$200K-$275KEmployer est.,"Washington, DC",237.5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Engineer,$68K-$123K ,"Charlotte, NC",95.5,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,M
+Senior Data Scientist,$80K-$129K ,"Southfield, MI",104.5,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,M
+Financial Data Analyst,$41K-$72K ,"Matawan, NJ",56.5,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+Senior Data Analyst,$39K-$71K ,"Phoenix, AZ",55.0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,na
+Research Scientist,$38K-$85K ,"Omaha, NE",61.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist,$121K-$193K ,"San Francisco, CA",157.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Engineer,$54K-$102K ,"Lyndhurst, NJ",78.0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$83K-$144K ,"Cambridge, MA",113.5,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,M
+Data Scientist,$120K-$160K ,"New York, NY",140.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$102K-$163K ,"San Francisco, CA",132.5,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,M
+Data Engineer,$76K-$140K ,"San Francisco, CA",108.0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,M
+Ag Data Scientist,$60K-$101K ,"Atlanta, IN",80.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$82K-$133K ,"Rockville, MD",107.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Engineer,$65K-$125K ,"Minneapolis, MN",95.0,0,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,na
+Data Scientist II,$91K-$148K ,"Los Angeles, CA",119.5,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,M
+Senior Data Engineer,$95K-$173K ,"Charlotte, NC",134.0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$77K-$124K ,"Cambridge, MA",100.5,1,0,0,1,1,0,0,0,1,0,0,1,1,0,0,0,na
+Data Scientist,$80K-$135K ,"Cincinnati, OH",107.5,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,M
+Data Engineer,$85K-$159K ,"Washington, DC",122.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Data Engineer,$80K-$105KEmployer est.,"Chicago, IL",92.5,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,na
+Data Analyst,$43K-$81K ,"Baltimore, MD",62.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Project Scientist,$29K-$50K ,"Alabaster, AL",39.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$82K-$133K ,"Santa Fe Springs, Los Angeles, CA",107.5,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,M
+Data Analytics Manager,$26K-$55K ,"Kansas City, MO",40.5,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+Senior Machine Learning (ML) Engineer / Data Scientist - Cyber Security Analytics,$61K-$118K ,"Ashburn, VA",89.5,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,M
+Data Scientist,$60K-$102K ,"Chicago, IL",81.0,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,na
+Senior Data Scientist,$112K-$182K ,"Herndon, VA",147.0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,na
+Data Scientist,$64K-$106K ,"Fort Worth, TX",85.0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,na
+Associate Scientist,$51K-$112K ,"Valencia, CA",81.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+"Scientist 2, QC Viral Vector",$113K-$223K ,"Novato, CA",168.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Machine Learning Engineer,$72K-$129K ,"Aurora, CO",100.5,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,na
+Data Scientist/ML Engineer,$71K-$123K ,"New York, NY",97.0,1,1,0,1,1,0,0,0,0,0,1,1,0,0,1,0,M
+Data Scientist,$64K-$106K ,"Chantilly, VA",85.0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,na
+Customer Data Scientist,$118K-$189K ,"Mountain View, CA",153.5,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,M
+Data Engineer,Employer Provided Salary:$120K-$145K,"Tampa, FL",132.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Engineer,$80K-$120K ,"Chicago, IL",100.0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Sr. Data Scientist,$80K-$130K ,"Denver, CO",105.0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+Data Engineer 4 - Contract,$59K-$115K ,"Riverton, UT",87.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Analyst - Asset Management,$71K-$136K ,"San Francisco, CA",103.5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Research Scientist - Embedded System Development for DevOps,$81K-$167K ,"Pittsburgh, PA",124.0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist - Bioinformatics,$49K-$85K ,"Richland, WA",67.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Engineer,$60K-$114K ,"Washington, DC",87.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Customer Data Scientist/Sales Engineer,$71K-$204K ,"Chicago, IL",137.5,1,1,1,1,0,0,1,0,1,1,1,0,0,0,0,0,P
+Lead Data Scientist,$75K-$125K ,"Cincinnati, OH",100.0,1,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,M
+MongoDB Data Engineer II,$77K-$136K ,"Chattanooga, TN",106.5,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,na
+Senior Data Scientist Statistics,$74K-$123K ,"Richland, WA",98.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Senior Data Analyst,$44K-$78K ,"Clearwater, FL",61.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Spark Engineer (Data Science),$65K-$148K ,"Indianapolis, IN",106.5,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,na
+Data Engineer,$59K-$110K ,"Cambridge, MA",84.5,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+BI & Platform Analytics Manager,$85K-$134K ,"Ewing, NJ",109.5,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,M
+Lead Data Scientist,$124K-$204K ,"Boston, MA",164.0,1,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,P
+"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",$131K-$207K ,"South San Francisco, CA",169.0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,P
+Senior Data Scientist,$110K-$174K ,"Cupertino, CA",142.0,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,P
+Pricipal Scientist Molecular and cellular biologist,$52K-$101K ,"Boston, MA",76.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+"Data Scientist (Actuary, FSA or ASA)",$81K-$133K ,"Frederick, MD",107.0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,M
+Staff Data Scientist,$132K-$211K ,"San Jose, CA",171.5,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,M
+Senior Data Scientist / Machine Learning,$73K-$119K ,"Dallas, TX",96.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist - Health Data Analytics,$110K-$175K ,"San Francisco, CA",142.5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Data Engineer 5 - Contract (Remote),$74K-$140K ,"Riverton, UT",107.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Scientist - Neuroscience,$100K-$190K ,"Marlborough, MA",145.0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Senior Data Analyst,$43K-$80K ,"Herndon, VA",61.5,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,M
+Medical Lab Scientist,$17-$24 Per Hour,"West Reading, PA",42.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+"Risk and Analytics IT, Data Scientist",$91K-$149K ,"Madison, WI",120.0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,na
+"Scientist, Analytical Development",$42K-$82K ,"Cambridge, MA",62.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Senior Data Scientist,$116K-$185K ,"San Francisco, CA",150.5,1,1,0,0,1,1,0,0,1,1,1,0,0,0,0,0,P
+Analytics Manager,$59K-$116K ,"Dearborn, MI",87.5,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+Data Engineer,$48K-$95K ,"Winter Park, FL",71.5,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,na
+Digital Marketing & ECommerce Data Analyst,$31K-$72K ,"San Rafael, CA",51.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,na
+Sr. Scientist - Digital & Image Analysis/Computational Pathology,$105K-$198K ,"San Diego, CA",151.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Data Analyst,$55K-$100K ,"Hamilton, NJ",77.5,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+Principal Scientist - Immunologist,$98K-$182K ,"Boston, MA",140.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Data Scientist,$73K-$124K ,"Woodbridge, NJ",98.5,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,M
+Principal Data Scientist with over 10 years experience,Employer Provided Salary:$200K-$250K,"San Francisco, CA",225.0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,na
+MED TECH/LAB SCIENTIST - LABORATORY,$21-$34 Per Hour,"Lewes, DE",56.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+"Sr. Scientist, Quantitative Translational Sciences",$117K-$206K ,"Boston, MA",161.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Sr. Data Scientist II,$111K-$183K ,"New York, NY",147.0,1,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,na
+Excel / VBA / SQL Data Analyst,$44K-$78K ,"Springfield, MO",61.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+Machine Learning Research Scientist,$81K-$159K ,"Pittsburgh, PA",120.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+"VP, Data Science",$83K-$166K ,"Phoenix, AZ",124.5,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,na
+Senior Data Scientist,$114K-$182K ,"Burbank, CA",148.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Radar Data Analyst,$42K-$76K ,"Huntsville, AL",59.0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+PL Actuarial-Lead Data Scientist,$114K-$179K ,"Worcester, MA",146.5,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,M
+PV Scientist,$60K-$123K ,"Newton, MA",91.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Senior Data & Machine Learning Scientist,$100K-$166K ,"Chicago, IL",133.0,1,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0,P
+Principal Data Scientist (Computational Chemistry),$108K-$173K ,"Salt Lake City, UT",140.5,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,na
+Data Engineer,$48K-$93K ,"Lafayette, LA",70.5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+"Principal Scientist, Chemistry & Immunology",$54K-$115K ,"Rochester, NY",84.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Software Engineer - Data Visualization,$60K-$127K ,"Annapolis Junction, MD",93.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+"Scientist/Senior Scientist, Autoimmune",$90K-$179K ,"Cambridge, MA",134.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Staff Machine Learning Engineer,$138K-$224K ,"San Francisco, CA",181.0,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,na
+"Principal Scientist, Hematology",$54K-$115K ,"Rochester, NY",84.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Lead Data Engineer,$190K-$220KEmployer est.,"Mountain View, CA",205.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Marketing Data Analyst,$35K-$62K ,"Highland, CA",48.5,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,M
+Medical Laboratory Scientist,$18-$25 Per Hour,"Burleson, TX",44.5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+R&D Specialist/ Food Scientist,$39K-$66K ,"Hoopeston, IL",52.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Research Scientist-Machine Learning,$81K-$167K ,"Pittsburgh, PA",124.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Analytics Manager - Data Mart,$42K-$86K ,"Scotts Valley, CA",64.0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,na
+Sr. Data Engineer - Contract-to-Hire (Java),$69K-$127K ,"Knoxville, TN",98.0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,$21-$34 Per Hour,"Millville, DE",56.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Food Scientist - Developer,$40K-$68K ,"Milwaukee, WI",54.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Staff Scientist-Downstream Process Development,$49K-$113K ,"Rockville, MD",81.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Sr. Data Engineer,$75K-$140K ,"Chicago, IL",107.5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist - Quantitative,$86K-$139K ,"Chicago, IL",112.5,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,M
+Data Scientist,$66K-$112K ,"Herndon, VA",89.0,1,1,0,1,1,0,0,0,0,0,1,1,0,0,0,0,na
+Senior Research Statistician- Data Scientist,$76K-$125K ,"Sheboygan, WI",100.5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,M
+"Business Data Analyst, SQL",$44K-$86K ,"New York, NY",65.0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,na
+Medical Technologist / Clinical Laboratory Scientist,$15-$25 Per Hour,"New Orleans, LA",41.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$53K-$92K ,"Dallas, TX",72.5,1,1,1,1,1,0,0,0,0,0,1,1,1,0,0,0,M
+Senior Data Analyst,$44K-$78K ,"Clearwater, FL",61.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+BI & Platform Analytics Manager,$85K-$134K ,"Ewing, NJ",109.5,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,M
+Data Engineer,$59K-$110K ,"Cambridge, MA",84.5,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$64K-$111K ,"Chicago, IL",87.5,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,na
+Data Analyst,$65K-$120K ,"San Mateo, CA",92.5,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,na
+Associate Data Scientist/Computer Scientist,$60K-$103K ,"McLean, VA",81.5,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,na
+Business Intelligence Analyst / Developer,$53K-$105K ,"Dayton, OH",79.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Lead Data Scientist,$124K-$204K ,"Boston, MA",164.0,1,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,P
+"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",$131K-$207K ,"South San Francisco, CA",169.0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,P
+Senior Data Scientist,$110K-$174K ,"Cupertino, CA",142.0,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,P
+Data Analyst,$33K-$62K ,"Parlier, CA",47.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Pricipal Scientist Molecular and cellular biologist,$52K-$101K ,"Boston, MA",76.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Analyst,$48K-$90K ,"San Francisco, CA",69.0,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,na
+Data Analyst,$34K-$64K ,"Meridian, ID",49.0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+Staff Data Scientist,$132K-$211K ,"San Jose, CA",171.5,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,M
+"Data Scientist (Actuary, FSA or ASA)",$81K-$133K ,"Frederick, MD",107.0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,M
+System and Data Analyst,$42K-$76K ,"Cherry Hill, NJ",59.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$66K-$111K ,"Indianapolis, IN",88.5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Engineer 5 - Contract (Remote),$74K-$140K ,"Riverton, UT",107.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Digital Health Data Scientist,$63K-$110K ,"Cambridge, MA",86.5,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$63K-$105K ,"Louisville, KY",84.0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,M
+Data & Analytics Consultant (NYC),$91K-$138K ,"New York, NY",114.5,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,M
+Senior Scientist - Neuroscience,$100K-$190K ,"Marlborough, MA",145.0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Engineer,$62K-$114K ,"Nashville, TN",88.0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,na
+Big Data Engineer - Chicago - Future Opportunity,$71K-$129K ,"Chicago, IL",100.0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,na
+Senior Data Analyst,$43K-$80K ,"Herndon, VA",61.5,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,M
+Data Scientist,$74K-$119K ,"Portland, OR",96.5,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Survey Data Analyst,$55K-$97K ,"Minneapolis, MN",76.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$15K-$16KEmployer est.,"Port Washington, NY",15.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$61K-$106K ,"Austin, TX",83.5,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,na
+"Risk and Analytics IT, Data Scientist",$91K-$149K ,"Madison, WI",120.0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,na
+Data Scientist,$127K-$199K ,"South San Francisco, CA",163.0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,M
+Lead Health Data Analyst - Front End,$74K-$126K ,"Providence, RI",100.0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,na
+Research Scientist,$33K-$72K ,"Omaha, NE",52.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Medical Lab Scientist,$17-$24 Per Hour,"West Reading, PA",42.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Junior Data Analyst,$37K-$63K ,"Washington, DC",50.0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,M
+SQL Data Engineer,$67K-$119K ,"Austin, TX",93.0,1,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,M
+Data Scientist,$72K-$117K ,"Cincinnati, OH",94.5,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,na
+Senior Data Scientist,$116K-$185K ,"San Francisco, CA",150.5,1,1,0,0,1,1,0,0,1,1,1,0,0,0,0,0,P
+Data Scientist,$78K-$126K ,"Raleigh, NC",102.0,1,1,1,1,1,1,0,0,1,0,1,1,0,0,0,0,M
+"Scientist, Analytical Development",$42K-$82K ,"Cambridge, MA",62.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Analytics Manager,$59K-$116K ,"Dearborn, MI",87.5,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+Clinical Data Scientist,$63K-$105K ,"Groton, CT",84.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$109K-$177K ,"Herndon, VA",143.0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,na
+"Sr. Data Scientist, Cyber-Security LT Contract",$116K-$194K ,"Phila, PA",155.0,1,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,M
+Data Engineer,$48K-$95K ,"Winter Park, FL",71.5,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,na
+Data Scientist,$83K-$133K ,"Oakland, CA",108.0,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,M
+Sr. Scientist - Digital & Image Analysis/Computational Pathology,$105K-$198K ,"San Diego, CA",151.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Digital Marketing & ECommerce Data Analyst,$31K-$72K ,"San Rafael, CA",51.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,na
+Principal Scientist - Immunologist,$98K-$182K ,"Boston, MA",140.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Data Analyst,$55K-$100K ,"Hamilton, NJ",77.5,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+Insurance Financial Data Analyst,$45K-$82K ,"Boise, ID",63.5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$83K-$135K ,"San Francisco, CA",109.0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,na
+Data Scientist,$70K-$122K ,"Oak Ridge, TN",96.0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,M
+Principal Data Scientist with over 10 years experience,Employer Provided Salary:$200K-$250K,"San Francisco, CA",225.0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,na
+Data Engineer,$70K-$132K ,"Agoura Hills, CA",101.0,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+Senior Data Scientist,$73K-$124K ,"Woodbridge, NJ",98.5,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,M
+Data Engineer I - Azure,$54K-$101K ,"Pella, IA",77.5,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,na
+"Sr. Scientist, Quantitative Translational Sciences",$117K-$206K ,"Boston, MA",161.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+MED TECH/LAB SCIENTIST - LABORATORY,$21-$34 Per Hour,"Lewes, DE",56.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Sr. Data Scientist II,$111K-$183K ,"New York, NY",147.0,1,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,na
+Data Scientist,$68K-$112K ,"San Ramon, CA",90.0,1,0,0,1,1,0,1,0,1,0,0,1,0,0,0,0,na
+Information Security Data Analyst,$42K-$74K ,"Red Bank, NJ",58.0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Excel / VBA / SQL Data Analyst,$44K-$78K ,"Springfield, MO",61.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+Machine Learning Research Scientist,$81K-$159K ,"Pittsburgh, PA",120.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist,$95K-$161K ,"New York, NY",128.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$75K-$124K ,"Hillsboro, OR",99.5,1,1,1,1,1,0,1,0,1,1,0,1,0,0,0,0,na
+Data Scientist,$72K-$120K ,"Detroit, MI",96.0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$76K-$126K ,"Washington, DC",101.0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,M
+Senior Data Scientist,$114K-$182K ,"Burbank, CA",148.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+"Data Scientist, Senior",$108K-$176K ,"Fort Belvoir, VA",142.0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,na
+Senior Data Scientist,$130K-$208K ,"Palo Alto, CA",169.0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,M
+"VP, Data Science",$83K-$166K ,"Phoenix, AZ",124.5,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,na
+Radar Data Analyst,$42K-$76K ,"Huntsville, AL",59.0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+CONSULTANT– DATA ANALYTICS GROUP,$37K-$68K ,"San Diego, CA",52.5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Data Engineer,$52K-$99K ,"Houston, TX",75.5,0,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,na
+Senior Data Scientist,$105K-$173K ,"Armonk, NY",139.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+"Data Engineer, Data Engineering and Artifical Intelligence",$71K-$134K ,"Cambridge, MA",102.5,1,1,1,1,1,0,0,0,0,0,1,1,0,0,1,0,na
+Staff Scientist,$39K-$82K ,"Columbia, SC",60.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+PL Actuarial-Lead Data Scientist,$114K-$179K ,"Worcester, MA",146.5,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,M
+"Associate Scientist/Scientist, Process Analytical Technology - Small Molecule Analytical Chemistry",$88K-$162K ,"South San Francisco, CA",125.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Sr. Data Analyst,$60K-$102K ,"Springfield, MA",81.0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,na
+Senior Data & Machine Learning Scientist,$100K-$166K ,"Chicago, IL",133.0,1,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0,P
+Program/Data Analyst,$55K-$99K ,"Washington, DC",77.0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,M
+Data Engineer,$67K-$117K ,"Herndon, VA",92.0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,na
+Senior Data Scientist: Causal & Predictive analytics AI Innovation Lab,$92K-$150K ,"Cambridge, MA",121.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+"Principal Data Engineer, Data Platform & Insights",$116K-$209K ,"San Francisco, CA",162.5,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+RESEARCH SCIENTIST - BIOLOGICAL SAFETY,$38K-$82K ,"San Antonio, TX",60.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Operations Lead,Employer Provided Salary:$85K-$90K,"San Francisco, CA",87.5,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,M
+Big Data Engineer,$62K-$119K ,"Indianapolis, IN",90.5,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,na
+Data Scientist / Machine Learning Expert,$86K-$143K ,"Cambridge, MA",114.5,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,na
+Data Scientist,$93K-$149K ,"Sunnyvale, CA",121.0,1,1,0,1,1,0,1,0,1,1,0,0,0,0,1,0,M
+Senior Data Scientist,$84K-$136K ,"Dallas, TX",110.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,M
+PV Scientist,$60K-$123K ,"Newton, MA",91.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Clinical Data Analyst,$52K-$89K ,"Portsmouth, VA",70.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Engineer,$48K-$93K ,"Lafayette, LA",70.5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Computational Chemist/Data Scientist,$56K-$97K ,"Richland, WA",76.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Engineer,$65K-$119K ,"Springfield, MA",92.0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Principal Data Scientist (Computational Chemistry),$108K-$173K ,"Salt Lake City, UT",140.5,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,na
+Product Engineer – Data Science,$63K-$101K ,"Arlington, VA",82.0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+"Principal Scientist, Chemistry & Immunology",$54K-$115K ,"Rochester, NY",84.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+"Scientist/Senior Scientist, Autoimmune",$90K-$179K ,"Cambridge, MA",134.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist,$127K-$202K ,"San Francisco, CA",164.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Market Data Analyst,$31K-$57K ,"West Palm Beach, FL",44.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Software Engineer - Data Visualization,$60K-$127K ,"Annapolis Junction, MD",93.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Engineer,$75K-$143K ,"Herndon, VA",109.0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,na
+Staff Data Engineer,$105K-$194K ,"Austin, TX",149.5,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Associate Data Engineer,$45K-$86K ,"Washington, DC",65.5,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Data Scientist,$95K-$154K ,"Charlotte, NC",124.5,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Staff BI and Data Engineer,$80K-$148K ,"San Jose, CA",114.0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,M
+Marketing Data Analyst,$36K-$62K ,"Exton, PA",49.0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,na
+"Principal Scientist, Hematology",$54K-$115K ,"Rochester, NY",84.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Analyst,$50K-$92K ,"Alexandria, VA",71.0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,na
+"Director - Data, Privacy and AI Governance",$67K-$135K ,"Boston, MA",101.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$82K-$132K ,"Redlands, CA",107.0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,M
+Data Scientist,$85K-$140K ,"Ipswich, MA",112.5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Staff Machine Learning Engineer,$138K-$224K ,"San Francisco, CA",181.0,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,na
+Information Security Data Analyst,$42K-$80K ,"Chicago, IL",61.0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,M
+Lead Data Engineer,$190K-$220KEmployer est.,"Mountain View, CA",205.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Scientist Manufacturing - Kentucky BioProcessing,$68K-$139K ,"Owensboro, KY",103.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Analytics Project Manager,$34K-$92K ,"Springfield, MA",63.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Consultant - Analytics Consulting,$54K-$71K ,"Hartford, CT",62.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Engineer,$65K-$124K ,"Orange, CA",94.5,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,M
+Marketing Data Analyst,$35K-$62K ,"Highland, CA",48.5,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,M
+Senior Scientist (Neuroscience),$109K-$200K ,"Marlborough, MA",154.5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Medical Laboratory Scientist,$18-$25 Per Hour,"Burleson, TX",44.5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Machine Learning Engineer - Regulatory,$61K-$113K ,"Lenexa, KS",87.0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,na
+R&D Specialist/ Food Scientist,$39K-$66K ,"Hoopeston, IL",52.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Engineer,$43K-$86K ,"New York, NY",64.5,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+"Scientist, Bacteriology",$74K-$149K ,"Concord, CA",111.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",$113K-$196K ,"Cambridge, MA",154.5,0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,M
+Senior Research Scientist-Machine Learning,$81K-$167K ,"Pittsburgh, PA",124.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Senior Data Scientist,$97K-$160K ,"Chicago, IL",128.5,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,na
+Clinical Laboratory Scientist,$24-$39 Per Hour,"Vail, CO",65.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Analytics Manager - Data Mart,$42K-$86K ,"Scotts Valley, CA",64.0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,na
+Sr. Data Engineer - Contract-to-Hire (Java),$69K-$127K ,"Knoxville, TN",98.0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist - Algorithms & Inference,$110K-$175K ,"San Francisco, CA",142.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Data Scientist - R&D Oncology,$102K-$172K ,"New York, NY",137.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Engineer,$74K-$124K ,"Denver, CO",99.0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+Food Scientist - Developer,$40K-$68K ,"Milwaukee, WI",54.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Data Scientist,$108K-$171K ,"Natick, MA",139.5,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,M
+Data Engineer,$76K-$142K ,"Rockville, MD",109.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+"Director II, Data Science - GRM Actuarial",$202K-$306K ,"Chicago, IL",254.0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,M
+"Scientist, Molecular/Cellular Biologist",$49K-$97K ,"South San Francisco, CA",73.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Staff Scientist-Downstream Process Development,$49K-$113K ,"Rockville, MD",81.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,$21-$34 Per Hour,"Millville, DE",56.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Scientist - Analytical Services,$65K-$134K ,"Winston-Salem, NC",99.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Associate Data Analyst- Graduate Development Program,$32K-$59K ,"Richfield, OH",45.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Sr. Data Engineer,$87K-$158K ,"Indianapolis, IN",122.5,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,na
+Senior Insurance Data Scientist,$107K-$173K ,"Chicago, IL",140.0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,na
+Senior Data Science Systems Engineer,$56K-$99K ,"Hampton, VA",77.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+ENVIRONMENTAL ENGINEER/SCIENTIST,Employer Provided Salary:$25-$28 Per Hour,"Cambridge, MA",55.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Scientist - Regulatory Submissions,$80K-$155K ,"Winston-Salem, NC",117.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Scientist - Biomarker and Flow Cytometry,$43K-$98K ,"San Diego, CA",70.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Revenue Analytics Manager,$45K-$78K ,"San Francisco, CA",61.5,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+"Associate Scientist, LC/MS Biologics",$44K-$96K ,"Ithaca, NY",70.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Sr. Scientist Method Development,$50K-$110K ,"Marietta, GA",80.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+IT - Data Engineer II,$61K-$119K ,"Quincy, MA",90.0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,na
+"Research Scientist, Immunology - Cancer Biology",Employer Provided Salary:$100K-$140K,"Cambridge, MA",120.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+"Project Scientist - Auton Lab, Robotics Institute",$56K-$91K ,"Pittsburgh, PA",73.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist,$68K-$114K ,"Fort Lauderdale, FL",91.0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,na
+Data Scientist,Employer Provided Salary:$150K-$160K,"Washington, DC",155.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+"Enterprise Architect, Data",$101K-$158K ,"Boston, MA",129.5,1,1,1,1,1,0,0,0,0,0,1,1,1,0,0,0,na
+"Senior Manager, Epidemiologic Data Scientist",$125K-$210K ,"New York, NY",167.5,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Corporate Risk Data Analyst (SQL Based) - Milwaukee or,$43K-$77K ,"Green Bay, WI",60.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Lead Data Scientist,$139K-$221K ,"Burbank, CA",180.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+"Marketing Data Analyst, May 2020 Undergrad",$44K-$86K ,"New York, NY",65.0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,na
+Senior Data Engineer,$78K-$147K ,"Durham, NC",112.5,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,na
+Senior Data Analyst,$65K-$110K ,"New York, NY",87.5,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,na
+Data Modeler - Data Solutions Engineer,$37K-$66K ,"Indianapolis, IN",51.5,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,M
+Associate Environmental Scientist - Wildlife Biologist,$38K-$64K ,"Clovis, CA",51.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+"Associate, Data Science, Internal Audit",$43K-$82K ,"Boston, MA",62.5,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,M
+Sr Data Engineer (Sr BI Developer),$90K-$110KEmployer est.,"Chandler, AZ",100.0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,na
+Data Engineer,$61K-$109K ,"Chantilly, VA",85.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,na
+Senior LiDAR Data Scientist,$93K-$151K ,"Orlando, FL",122.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Salesforce Analytics Consultant,$52K-$81K ,"Chicago, IL",66.5,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,M
+"Technology-Minded, Data Professional Opportunities",$40K-$101K ,"Columbia, MO",70.5,0,1,0,1,1,0,0,0,0,0,1,1,0,0,1,0,na
+Senior Data Engineer,$97K-$180K ,"Austin, TX",138.5,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,na
+Managing Data Scientist/ML Engineer,$81K-$134K ,"Boston, MA",107.5,0,1,0,1,1,0,0,0,0,0,1,1,0,0,1,0,na
+"Scientist, Pharmacometrics",$84K-$157K ,"Cambridge, MA",120.5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,M
+Staff Scientist- Upstream PD,$49K-$113K ,"Rockville, MD",81.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Scientist Manufacturing Pharma - Kentucky BioProcessing,$68K-$139K ,"Owensboro, KY",103.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Sr. Data Engineer,$75K-$140K ,"Chicago, IL",107.5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Lead Big Data Engineer,$121K-$203K ,"San Francisco, CA",162.0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,na
+Product Engineer – Spatial Data Science and Statistical Analysis,$52K-$85K ,"Redlands, CA",68.5,1,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,M
+Sr Software Engineer (Data Scientist),$81K-$140K ,"Westlake, OH",110.5,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,na
+College Hire - Data Scientist - Open to December 2019 Graduates,$63K-$99K ,"Peoria, IL",81.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,na
+Senior Data Scientist,$110K-$150KEmployer est.,"Chicago, IL",130.0,1,1,0,1,1,0,0,0,1,0,1,1,1,0,0,0,M
+Sr. Data Engineer (ETL Developer),$83K-$148K ,"Des Moines, IA",115.5,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+Senior Data Scientist Artificial Intelligence,$60K-$101K ,"Richland, WA",80.5,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,M
+Analytics - Business Assurance Data Analyst,$31K-$55K ,"Cedar Rapids, IA",43.0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+"Associate Director/Director, Safety Scientist",$102K-$178K ,"Cambridge, MA",140.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+"Senior Scientist, Cell Pharmacology/Assay Development",Employer Provided Salary:$110K-$130K,"Cambridge, MA",120.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Analyst Senior,$48K-$85K ,"Philadelphia, PA",66.5,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,M
+Lead Data Engineer (Python),$66K-$123K ,"San Francisco, CA",94.5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Data Scientist 4 Artificial Intelligence,$92K-$146K ,"Seattle, WA",119.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,M
+Medical Lab Scientist - MLT,$21-$29 Per Hour,"Omaha, NE",51.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+"Senior Operations Data Analyst, Call Center Operations",$10-$17 Per Hour,"Nashville, TN",27.5,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,na
+"Director II, Data Science - GRS Predictive Analytics",$150K-$239K ,"Chicago, IL",194.5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,P
+RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,$52K-$91K ,"San Antonio, TX",71.5,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Geospatial Software Developer and Data Scientist,$82K-$129KEmployer est.,"Austin, TX",105.5,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,na
+Senior Scientist - Toxicologist - Product Integrity (Stewardship),$47K-$101K ,"Winston-Salem, NC",74.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Systems Engineer II - Data Analyst,$49K-$76K ,"Huntsville, AL",62.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Research Analytical Scientist-Non-Targeted Analysis,$43K-$88K ,"Durham, NC",65.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Director Data Science,$124K-$199K ,"Fort Lee, NJ",161.5,1,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,na
+Sr Data Analyst - IT,$52K-$93K ,"Blue Bell, PA",72.5,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+Senior Data Engineer,$97K-$181K ,"San Francisco, CA",139.0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Data Engineer,$100K-$173K ,"San Francisco, CA",136.5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,$53K-$96K ,"New York, NY",74.5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Scientist - Biostatistician,$65K-$96K ,"Winston-Salem, NC",80.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$56K-$95K ,"Albuquerque, NM",75.5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$111K-$176K ,"Saint Louis, MO",143.5,1,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0,na
+Data Scientist,$75K-$127K ,"Springfield, VA",101.0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,na
+Data Engineer,$65K-$119K ,"Springfield, MA",92.0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Computational Chemist/Data Scientist,$56K-$97K ,"Richland, WA",76.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Principal Data Scientist (Computational Chemistry),$108K-$173K ,"Salt Lake City, UT",140.5,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,na
+Data Scientist,$94K-$139K ,"Jersey City, NJ",116.5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Principal Machine Learning Scientist,$176K-$289K ,"San Francisco, CA",232.5,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,P
+Data Scientist,$92K-$149K ,"San Francisco, CA",120.5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,P
+Product Engineer – Data Science,$63K-$101K ,"Arlington, VA",82.0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+"Principal Scientist, Chemistry & Immunology",$54K-$115K ,"Rochester, NY",84.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist,$118K-$188K ,"Emeryville, CA",153.0,1,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,P
+Data Scientist,$108K-$146K ,"Palo Alto, CA",127.0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,M
+Data Scientist,$65K-$106K ,"Santa Barbara, CA",85.5,1,1,0,1,1,0,0,0,1,1,1,0,0,0,0,0,P
+Data Scientist,$55K-$98K ,"Carle Place, NY",76.5,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,na
+Data Scientist,$94K-$162K ,"New York, NY",128.0,1,1,0,0,1,0,1,0,1,1,1,1,0,0,1,1,na
+Data Engineer,$63K-$120K ,"King of Prussia, PA",91.5,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,na
+"Scientist/Senior Scientist, Autoimmune",$90K-$179K ,"Cambridge, MA",134.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist,$127K-$202K ,"San Francisco, CA",164.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Software Engineer - Data Visualization,$60K-$127K ,"Annapolis Junction, MD",93.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Market Data Analyst,$31K-$57K ,"West Palm Beach, FL",44.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Staff Data Engineer,$105K-$194K ,"Austin, TX",149.5,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Associate Data Engineer,$45K-$86K ,"Washington, DC",65.5,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+Data Engineer,$75K-$143K ,"Herndon, VA",109.0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,na
+Staff Data Engineer,$126K-$228K ,"Mountain View, CA",177.0,1,1,1,0,1,0,0,0,0,0,1,0,0,1,1,0,P
+Data Scientist,$80K-$134K ,"Arlington, VA",107.0,1,1,0,1,1,0,0,1,1,1,1,0,0,0,0,0,P
+Data Scientist,$120K-$189K ,"Santa Clara, CA",154.5,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,P
+Data Scientist,$85K-$142K ,"Santa Clara, CA",113.5,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Data Scientist,$95K-$154K ,"Charlotte, NC",124.5,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$111K-$176K ,"Brisbane, CA",143.5,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist,$87K-$140K ,"San Francisco, CA",113.5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$76K-$127K ,"Springfield, VA",101.5,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,M
+"Data Analyst, Performance Partnership",$54K-$92K ,"New York, NY",73.0,0,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,na
+Data Scientist,$61K-$100K ,"New York, NY",80.5,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$81K-$140K ,"New York, NY",110.5,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,M
+Staff BI and Data Engineer,$80K-$148K ,"San Jose, CA",114.0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,M
+Data Scientist,$108K-$171K ,"Foster City, CA",139.5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$112K-$179K ,"New York, NY",145.5,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+Data Scientist,$63K-$111K ,"New York, NY",87.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$75K-$126K ,"Holyoke, MA",100.5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist Manager,$110K-$184K ,"New York, NY",147.0,1,1,0,1,1,1,0,0,1,0,1,0,0,0,1,0,M
+Data Engineer,$76K-$145K ,"New York, NY",110.5,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+Marketing Data Analyst,$36K-$62K ,"Exton, PA",49.0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,na
+Data Scientist,$70K-$118K ,"Waltham, MA",94.0,1,1,1,0,1,0,0,0,0,0,1,1,1,0,0,0,M
+Senior Data Scientist,$94K-$153K ,"New York, NY",123.5,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+"Principal Scientist, Hematology",$54K-$115K ,"Rochester, NY",84.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Analyst,$50K-$92K ,"Alexandria, VA",71.0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,na
+Software Data Engineer - College,$49K-$97K ,"Corvallis, OR",73.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+"Director - Data, Privacy and AI Governance",$67K-$135K ,"Boston, MA",101.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Staff Machine Learning Engineer,$138K-$224K ,"San Francisco, CA",181.0,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,na
+Data Scientist,$80K-$139K ,"San Diego, CA",109.5,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+Lead Data Scientist,$158K-$211K ,"Bellevue, WA",184.5,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,na
+Senior Data Scientist - Algorithms,$150K-$180K ,"New York, NY",165.0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,M
+Information Security Data Analyst,$42K-$80K ,"Chicago, IL",61.0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,M
+Lead Data Engineer,$190K-$220KEmployer est.,"Mountain View, CA",205.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Data Analyst,$42K-$77K ,"New York, NY",59.5,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Scientist Manufacturing - Kentucky BioProcessing,$68K-$139K ,"Owensboro, KY",103.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Consultant - Analytics Consulting,$54K-$71K ,"Hartford, CT",62.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Analytics Project Manager,$34K-$92K ,"Springfield, MA",63.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Analyst,$47K-$85K ,"New York, NY",66.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Engineer,$65K-$124K ,"Orange, CA",94.5,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,M
+Data Scientist,$56K-$95K ,"New York, NY",75.5,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,na
+Machine Learning Engineer,$62K-$112K ,"Fort Belvoir, VA",87.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Data Scientist Oncology,$107K-$173K ,"Gaithersburg, MD",140.0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist,$64K-$108K ,"Silver Spring, MD",86.0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,M
+Senior Data Scientist,$89K-$144K ,"Palo Alto, CA",116.5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Scientist (Neuroscience),$109K-$200K ,"Marlborough, MA",154.5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Machine Learning Engineer - Regulatory,$61K-$113K ,"Lenexa, KS",87.0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,na
+Marketing Data Analyst,$35K-$62K ,"Highland, CA",48.5,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,M
+Data Engineer,$55K-$105K ,"Houston, TX",80.0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,na
+Medical Laboratory Scientist,$18-$25 Per Hour,"Burleson, TX",44.5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+R&D Specialist/ Food Scientist,$39K-$66K ,"Hoopeston, IL",52.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Principal Data Scientist,$135K-$211K ,"San Jose, CA",173.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Engineer,$57K-$80K ,"Phoenix, AZ",68.5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist - Alpha Insights,$129K-$215K ,"New York, NY",172.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+"Data Scientist, Office of Data Science",$86K-$143K ,"Boston, MA",114.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+"Associate Principal Scientist, Pharmacogenomics",$63K-$127K ,"Gaithersburg, MD",95.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist - Systems Engineering,$50K-$89K ,"Bedford, MA",69.5,1,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,na
+Data Engineer,$43K-$86K ,"New York, NY",64.5,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+"Scientist, Bacteriology",$74K-$149K ,"Concord, CA",111.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist,$71K-$124K ,"New York, NY",97.5,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",$113K-$196K ,"Cambridge, MA",154.5,0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,M
+Senior Research Scientist-Machine Learning,$81K-$167K ,"Pittsburgh, PA",124.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist,$69K-$121K ,"New York, NY",95.0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,na
+Senior Data Scientist,$97K-$160K ,"Chicago, IL",128.5,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,na
+Principal Data Scientist,$150K-$238K ,"San Francisco, CA",194.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$77K-$132K ,"New York, NY",104.5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+Clinical Laboratory Scientist,$24-$39 Per Hour,"Vail, CO",65.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Engineer - Consultant (Charlotte Based),$59K-$112K ,"Charlotte, NC",85.5,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,na
+"Data Analyst 1, full-time contract worker for up to 12 months",$35K-$65K ,"Salt Lake City, UT",50.0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Data Engineer,$79K-$147K ,"Aliso Viejo, CA",113.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,na
+"Scientist, Immuno-Oncology",$62K-$119K ,"Cambridge, MA",90.5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Data Scientist,$119K-$187K ,"Los Angeles, CA",153.0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Products Data Analyst II,$90K-$157K ,"Dublin, CA",123.5,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,M
+Lead Data Analyst,$32K-$62K ,"New York, NY",47.0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Analytics Manager - Data Mart,$42K-$86K ,"Scotts Valley, CA",64.0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,na
+Data Science Engineer - Mobile,$116K-$208K ,"San Jose, CA",162.0,1,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,M
+Senior Data Scientist - R&D Oncology,$102K-$172K ,"New York, NY",137.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Sr. Data Engineer - Contract-to-Hire (Java),$69K-$127K ,"Knoxville, TN",98.0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$86K-$144K ,"Armonk, NY",115.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Data Scientist,$102K-$165K ,"Arvada, CO",133.5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Engineer,$74K-$124K ,"Denver, CO",99.0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+Food Scientist - Developer,$40K-$68K ,"Milwaukee, WI",54.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Data Engineer,$76K-$142K ,"Franklin, TN",109.0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,na
+Data Engineer,$76K-$142K ,"Rockville, MD",109.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Data Scientist,$108K-$171K ,"Natick, MA",139.5,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,M
+"Director II, Data Science - GRM Actuarial",$202K-$306K ,"Chicago, IL",254.0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,M
+Machine Learning Engineer,$91K-$159K ,"New York, NY",125.0,1,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0,M
+"Sr Expert Data Science, Advanced Visual Analytics (Associate level)",$80K-$133K ,"Cambridge, MA",106.5,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,M
+"Scientist, Molecular/Cellular Biologist",$49K-$97K ,"South San Francisco, CA",73.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Staff Scientist-Downstream Process Development,$49K-$113K ,"Rockville, MD",81.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,$21-$34 Per Hour,"Millville, DE",56.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Scientist - Analytical Services,$65K-$134K ,"Winston-Salem, NC",99.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Associate Data Analyst- Graduate Development Program,$32K-$59K ,"Richfield, OH",45.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+IT Associate Data Analyst,$39K-$69K ,"Worcester, MA",54.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Sr. Data Engineer,$87K-$158K ,"Indianapolis, IN",122.5,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,na
+Clinical Data Analyst,$27K-$48K ,"Tampa, FL",37.5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+Business Data Analyst,$36K-$71K ,"New York, NY",53.5,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,M
+Senior Insurance Data Scientist,$107K-$173K ,"Chicago, IL",140.0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,na
+Senior Data Science Systems Engineer,$56K-$99K ,"Hampton, VA",77.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+ENVIRONMENTAL ENGINEER/SCIENTIST,Employer Provided Salary:$25-$28 Per Hour,"Cambridge, MA",55.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Scientist - Regulatory Submissions,$80K-$155K ,"Winston-Salem, NC",117.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Scientist - Biomarker and Flow Cytometry,$43K-$98K ,"San Diego, CA",70.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+"Associate Scientist, LC/MS Biologics",$44K-$96K ,"Ithaca, NY",70.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Revenue Analytics Manager,$45K-$78K ,"San Francisco, CA",61.5,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+Sr. Scientist Method Development,$50K-$110K ,"Marietta, GA",80.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$60K-$99K ,"Atlanta, GA",79.5,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,na
+Data Scientist - Sales,$130K-$206K ,"Mountain View, CA",168.0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+IT - Data Engineer II,$61K-$119K ,"Quincy, MA",90.0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,na
+"Research Scientist, Immunology - Cancer Biology",Employer Provided Salary:$100K-$140K,"Cambridge, MA",120.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Senior Data Analyst,$99K-$178K ,"San Francisco, CA",138.5,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,na
+"Principal, Data Science - Advanced Analytics",$86K-$137K ,"Plymouth Meeting, PA",111.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Science Project Manager,$37K-$100K ,"Boston, MA",68.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+"Sr Scientist, Immuno-Oncology - Oncology",$58K-$111K ,"Cambridge, MA",84.5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Data Engineer,$72K-$133K ,"Nashville, TN",102.5,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,na
+"Project Scientist - Auton Lab, Robotics Institute",$56K-$91K ,"Pittsburgh, PA",73.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Research Scientist – Security and Privacy,$61K-$126K ,"Beavercreek, OH",93.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Science Manager,$95K-$160K ,"Allentown, PA",127.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Analyst 2 (Missionary Department),$53K-$91K ,"Salt Lake City, UT",72.0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,na
+"Enterprise Architect, Data",$101K-$158K ,"Boston, MA",129.5,1,1,1,1,1,0,0,0,0,0,1,1,1,0,0,0,na
+Supply Chain Data Analyst,$33K-$61K ,"Logan, UT",47.0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+Data Engineer - ETL,$44K-$86K ,"Birmingham, AL",65.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Corporate Risk Data Analyst (SQL Based) - Milwaukee or,$43K-$77K ,"Green Bay, WI",60.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+"Senior Manager, Epidemiologic Data Scientist",$125K-$210K ,"New York, NY",167.5,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+"Marketing Data Analyst, May 2020 Undergrad",$44K-$86K ,"New York, NY",65.0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,na
+Senior Data Analyst,$69K-$119K ,"Herndon, VA",94.0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Data Analyst,$65K-$110K ,"New York, NY",87.5,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,na
+Senior Data Engineer,$67K-$127K ,"Reston, VA",97.0,1,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,na
+Senior Data Engineer,$78K-$147K ,"Durham, NC",112.5,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,na
+Data Modeler (Analytical Systems),$66K-$117K ,"Boston, MA",91.5,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,na
+Data Modeler - Data Solutions Engineer,$37K-$66K ,"Indianapolis, IN",51.5,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,M
+Data Scientist in Translational Medicine,$86K-$143K ,"Cambridge, MA",114.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$84K-$146K ,"New York, NY",115.0,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,na
+Product Manager/Data Evangelist,$50K-$98K ,"Phila, PA",74.0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+Associate Environmental Scientist - Wildlife Biologist,$38K-$64K ,"Clovis, CA",51.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Sr Data Engineer (Sr BI Developer),$90K-$110KEmployer est.,"Chandler, AZ",100.0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,na
+"Senior Data Scientist – Visualization, Novartis AI Innovation Lab",$92K-$150K ,"Cambridge, MA",121.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Data Analyst/Scientist,$90K-$153K ,"San Francisco, CA",121.5,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,na
+"Associate, Data Science, Internal Audit",$43K-$82K ,"Boston, MA",62.5,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,M
+"Scientist – Cancer Discovery, Molecular Assay",Employer Provided Salary:$100K-$135K,"Cambridge, MA",117.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Senior LiDAR Data Scientist,$93K-$151K ,"Orlando, FL",122.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Engineer,$61K-$109K ,"Chantilly, VA",85.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,na
+Data Engineer,$42K-$79K ,"Scottsdale, AZ",60.5,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,na
+Lead Data Scientist,$139K-$221K ,"Burbank, CA",180.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+"Technology-Minded, Data Professional Opportunities",$40K-$101K ,"Columbia, MO",70.5,0,1,0,1,1,0,0,0,0,0,1,1,0,0,1,0,na
+Big Data Engineer,$84K-$153K ,"Chantilly, VA",118.5,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,na
+Salesforce Analytics Consultant,$52K-$81K ,"Chicago, IL",66.5,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,M
+Managing Data Scientist/ML Engineer,$81K-$134K ,"Boston, MA",107.5,0,1,0,1,1,0,0,0,0,0,1,1,0,0,1,0,na
+Senior Data Engineer,$97K-$180K ,"Austin, TX",138.5,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,na
+Staff Scientist- Upstream PD,$49K-$113K ,"Rockville, MD",81.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Engineering Analyst,$44K-$73K ,"Bloomington, IL",58.5,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,M
+Sr. Data Engineer,$75K-$140K ,"Chicago, IL",107.5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+"Scientist, Pharmacometrics",$84K-$157K ,"Cambridge, MA",120.5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,M
+Manager of Data Science,$40K-$87K ,"San Francisco, CA",63.5,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,na
+Scientist Manufacturing Pharma - Kentucky BioProcessing,$68K-$139K ,"Owensboro, KY",103.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Software Engineer (Data Scientist/Software Engineer) - SISW - MG,$72K-$142K ,"Fremont, CA",107.0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,na
+Data Engineer,$74K-$137K ,"Springfield, VA",105.5,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,na
+Data Engineer,$57K-$109K ,"San Diego, CA",83.0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,na
+Lead Big Data Engineer,$121K-$203K ,"San Francisco, CA",162.0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,na
+Product Engineer – Spatial Data Science and Statistical Analysis,$52K-$85K ,"Redlands, CA",68.5,1,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,M
+Sr Software Engineer (Data Scientist),$81K-$140K ,"Westlake, OH",110.5,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,na
+Sr. Data Engineer (ETL Developer),$83K-$148K ,"Des Moines, IA",115.5,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+Associate Research Scientist I (Protein Expression and Production),$59K-$116K ,"Alameda, CA",87.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Data Scientist Artificial Intelligence,$60K-$101K ,"Richland, WA",80.5,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,M
+Analytics - Business Assurance Data Analyst,$31K-$55K ,"Cedar Rapids, IA",43.0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+"Associate Director/Director, Safety Scientist",$102K-$178K ,"Cambridge, MA",140.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+"Director, Precision Medicine Clinical Biomarker Scientist",$136K-$208K ,"Cambridge, MA",172.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+"Senior Scientist, Cell Pharmacology/Assay Development",Employer Provided Salary:$110K-$130K,"Cambridge, MA",120.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Analyst Senior,$48K-$85K ,"Philadelphia, PA",66.5,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,M
+Senior Formulations Scientist II,$71K-$129K ,"Alameda, CA",100.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Lead Data Engineer (Python),$66K-$123K ,"San Francisco, CA",94.5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Science Manager,$171K-$272K ,"San Francisco, CA",221.5,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Data Scientist 4 Artificial Intelligence,$92K-$146K ,"Seattle, WA",119.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,M
+Data Engineer,$65K-$126K ,"Chicago, IL",95.5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+"Director II, Data Science - GRS Predictive Analytics",$150K-$239K ,"Chicago, IL",194.5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,P
+Medical Lab Scientist - MLT,$21-$29 Per Hour,"Omaha, NE",51.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+"Senior Operations Data Analyst, Call Center Operations",$10-$17 Per Hour,"Nashville, TN",27.5,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,na
+Senior Quantitative Analyst,$118K-$228K ,"Jersey City, NJ",173.0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Geospatial Software Developer and Data Scientist,$82K-$129KEmployer est.,"Austin, TX",105.5,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,na
+RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,$52K-$91K ,"San Antonio, TX",71.5,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Scientist - Toxicologist - Product Integrity (Stewardship),$47K-$101K ,"Winston-Salem, NC",74.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Systems Engineer II - Data Analyst,$49K-$76K ,"Huntsville, AL",62.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Research Analytical Scientist-Non-Targeted Analysis,$43K-$88K ,"Durham, NC",65.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist,$61K-$109K ,"Coraopolis, PA",85.0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,M
+Principal Data Scientist,$113K-$182K ,"Gaithersburg, MD",147.5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Director Data Science,$124K-$199K ,"Fort Lee, NJ",161.5,1,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,na
+Data Engineer,$58K-$104K ,"Roanoke, VA",81.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Sr Data Analyst - IT,$52K-$93K ,"Blue Bell, PA",72.5,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+Senior Data Engineer,$97K-$181K ,"San Francisco, CA",139.0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Data Engineer,$100K-$173K ,"San Francisco, CA",136.5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Sr. Data Analyst,$58K-$108K ,"New York, NY",83.0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Research Scientist or Senior Research Scientist - Computer Vision,$81K-$161K ,"Cambridge, MA",121.0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,P
+Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,$53K-$96K ,"New York, NY",74.5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Analyst Chemist - Quality System Contractor,$61K-$110K ,"San Francisco, CA",85.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Scientist - Biostatistician,$65K-$96K ,"Winston-Salem, NC",80.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Research Scientist / Principal Research Scientist - Multiphysical Systems,$115K-$220K ,"Cambridge, MA",167.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+"Research Scientist, Machine Learning Department",$71K-$144K ,"Pittsburgh, PA",107.5,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,P
+Foundational Community Supports Data Analyst,$32K-$57K ,"Seattle, WA",44.5,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+"Senior Health Data Analyst, Star Ratings",$79K-$136K ,"Glen Burnie, MD",107.5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+"Principal Research Scientist/Team Lead, Medicinal Chemistry - Oncology",Employer Provided Salary:$120K-$145K,"Cambridge, MA",132.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Sr. Data Analyst,$50K-$89K ,"Philadelphia, PA",69.5,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,na
+"Senior Engineer, Data Management Engineering",$68K-$129K ,"Milpitas, CA",98.5,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,na
+Quality Control Scientist III- Analytical Development,$48K-$113K ,"Rockville, MD",80.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+"Clinical Scientist, Clinical Development",$27-$47 Per Hour,"Watertown, MA",76.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Software Engineer Staff Scientist: Human Language Technologies,$74K-$124K ,"Cambridge, MD",99.0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+"Manager, Safety Scientist, Medical Safety & Risk Management",$68K-$125K ,"Cambridge, MA",96.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+"Assistant Director/Director, Office of Data Science",$39K-$67K ,"Boston, MA",53.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Sr. Data Engineer | Big Data SaaS Pipeline,$71K-$135K ,"Los Angeles, CA",103.0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,na
+Senior Risk Data Scientist,$107K-$172K ,"Palo Alto, CA",139.5,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist in Artificial Intelligence Early Career,$49K-$85K ,"Richland, WA",67.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,M
+Consultant - Analytics Consulting,$54K-$71K ,"Hartford, CT",62.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Scientist - CVRM Metabolism - in vivo pharmacology,$61K-$123K ,"Gaithersburg, MD",92.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Analyst,$47K-$85K ,"New York, NY",66.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Engineer,$65K-$124K ,"Orange, CA",94.5,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,M
+Data Scientist,$87K-$141K ,"Fort Lee, NJ",114.0,1,0,1,1,1,0,0,0,0,0,1,1,1,0,0,0,na
+Data Scientist,$56K-$95K ,"New York, NY",75.5,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,na
+Data Scientist,$71K-$121K ,"Maryland Heights, MO",96.0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,P
+Machine Learning Engineer,$62K-$112K ,"Fort Belvoir, VA",87.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$64K-$108K ,"Silver Spring, MD",86.0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,M
+Senior Data Scientist,$89K-$144K ,"Palo Alto, CA",116.5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Scientist (Neuroscience),$109K-$200K ,"Marlborough, MA",154.5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Marketing Data Analyst,$35K-$62K ,"Highland, CA",48.5,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,M
+Machine Learning Engineer - Regulatory,$61K-$113K ,"Lenexa, KS",87.0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,na
+Data Engineer,$55K-$105K ,"Houston, TX",80.0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,na
+Medical Laboratory Scientist,$18-$25 Per Hour,"Burleson, TX",44.5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Principal Data Scientist,$135K-$211K ,"San Jose, CA",173.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+R&D Specialist/ Food Scientist,$39K-$66K ,"Hoopeston, IL",52.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Data Engineer,$57K-$80K ,"Phoenix, AZ",68.5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+"Associate Principal Scientist, Pharmacogenomics",$63K-$127K ,"Gaithersburg, MD",95.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist - Systems Engineering,$50K-$89K ,"Bedford, MA",69.5,1,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,na
+Senior Data Scientist,$82K-$132K ,"Cincinnati, OH",107.0,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,M
+Data Scientist SR,$85K-$139K ,"Charlottesville, VA",112.0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,M
+Data Scientist,$72K-$121K ,"Washington, DC",96.5,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,M
+"Scientist, Bacteriology",$74K-$149K ,"Concord, CA",111.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",$113K-$196K ,"Cambridge, MA",154.5,0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,M
+Data Scientist,$69K-$121K ,"New York, NY",95.0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,na
+Data Scientist,$71K-$124K ,"New York, NY",97.5,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Data Scientist,$97K-$160K ,"Chicago, IL",128.5,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,na
+Senior Research Scientist-Machine Learning,$81K-$167K ,"Pittsburgh, PA",124.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Principal Data Scientist,$150K-$238K ,"San Francisco, CA",194.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Clinical Laboratory Scientist,$24-$39 Per Hour,"Vail, CO",65.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+"Data Analyst 1, full-time contract worker for up to 12 months",$35K-$65K ,"Salt Lake City, UT",50.0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,na
+Data Scientist,$77K-$132K ,"New York, NY",104.5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+Data Scientist,$51K-$88K ,"Phoenix, AZ",69.5,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,na
+Data Scientist,$101K-$141K ,"Irvine, CA",121.0,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,M
+Data Engineer - Consultant (Charlotte Based),$59K-$112K ,"Charlotte, NC",85.5,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,na
+Data Engineer,$79K-$147K ,"Aliso Viejo, CA",113.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,na
+Data Scientist (Warehouse Automation),$79K-$127K ,"San Francisco, CA",103.0,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,M
+"Scientist, Immuno-Oncology",$62K-$119K ,"Cambridge, MA",90.5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Data Scientist,$119K-$187K ,"Los Angeles, CA",153.0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Jr. Data Scientist,$81K-$132K ,"McLean, VA",106.5,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,0,na
+Senior Data Scientist,Employer Provided Salary:$120K-$140K,"Ann Arbor, MI",130.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Products Data Analyst II,$90K-$157K ,"Dublin, CA",123.5,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,M
+Data Architect / Data Modeler,$63K-$110K ,"New York, NY",86.5,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+Analytics Manager - Data Mart,$42K-$86K ,"Scotts Valley, CA",64.0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,na
+Lead Data Analyst,$32K-$62K ,"New York, NY",47.0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Data Science Engineer - Mobile,$116K-$208K ,"San Jose, CA",162.0,1,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,M
+Senior Data Scientist Oncology,$107K-$173K ,"Gaithersburg, MD",140.0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist,$65K-$113K ,"Olympia, WA",89.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Sr. Data Engineer - Contract-to-Hire (Java),$69K-$127K ,"Knoxville, TN",98.0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Data Scientist - R&D Oncology,$102K-$172K ,"New York, NY",137.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Engineer,$74K-$124K ,"Denver, CO",99.0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,M
+Food Scientist - Developer,$40K-$68K ,"Milwaukee, WI",54.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Data Engineer,$76K-$142K ,"Franklin, TN",109.0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,na
+Data Engineer,$76K-$142K ,"Rockville, MD",109.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Data Scientist,$108K-$171K ,"Natick, MA",139.5,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,M
+"Director II, Data Science - GRM Actuarial",$202K-$306K ,"Chicago, IL",254.0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,M
+Machine Learning Engineer,$91K-$159K ,"New York, NY",125.0,1,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0,M
+"Sr Expert Data Science, Advanced Visual Analytics (Associate level)",$80K-$133K ,"Cambridge, MA",106.5,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,M
+MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,$21-$34 Per Hour,"Millville, DE",56.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+"Scientist, Molecular/Cellular Biologist",$49K-$97K ,"South San Francisco, CA",73.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+Staff Scientist-Downstream Process Development,$49K-$113K ,"Rockville, MD",81.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Scientist,$96K-$161K ,"Philadelphia, PA",128.5,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,na
+Scientist - Analytical Services,$65K-$134K ,"Winston-Salem, NC",99.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+"Associate Scientist / Sr. Associate Scientist, Antibody Discovery",$59K-$125K ,"South San Francisco, CA",92.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Associate Data Analyst- Graduate Development Program,$32K-$59K ,"Richfield, OH",45.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,na
+Sr. Data Engineer,$87K-$158K ,"Indianapolis, IN",122.5,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,na
+Clinical Data Analyst,$27K-$48K ,"Tampa, FL",37.5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,M
+IT Associate Data Analyst,$39K-$69K ,"Worcester, MA",54.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,na
+Business Data Analyst,$36K-$71K ,"New York, NY",53.5,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,M
+Senior Insurance Data Scientist,$107K-$173K ,"Chicago, IL",140.0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,na
+Senior Data Science Systems Engineer,$56K-$99K ,"Hampton, VA",77.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,P
+ENVIRONMENTAL ENGINEER/SCIENTIST,Employer Provided Salary:$25-$28 Per Hour,"Cambridge, MA",55.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Senior Scientist - Regulatory Submissions,$80K-$155K ,"Winston-Salem, NC",117.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Scientist - Biomarker and Flow Cytometry,$43K-$98K ,"San Diego, CA",70.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Revenue Analytics Manager,$45K-$78K ,"San Francisco, CA",61.5,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,na
+Sr. Scientist Method Development,$50K-$110K ,"Marietta, GA",80.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+"Associate Scientist, LC/MS Biologics",$44K-$96K ,"Ithaca, NY",70.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+"Research Scientist, Immunology - Cancer Biology",Employer Provided Salary:$100K-$140K,"Cambridge, MA",120.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+IT - Data Engineer II,$61K-$119K ,"Quincy, MA",90.0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,na
+Machine Learning Engineer (NLP),$80K-$142K ,"Palo Alto, CA",111.0,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,na
+Senior Data Analyst,$99K-$178K ,"San Francisco, CA",138.5,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,na
+Data Science Project Manager,$37K-$100K ,"Boston, MA",68.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,M
+Data Engineer,$62K-$113K ,"San Francisco, CA",87.5,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,P
+"Principal, Data Science - Advanced Analytics",$86K-$137K ,"Plymouth Meeting, PA",111.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+"Sr Scientist, Immuno-Oncology - Oncology",$58K-$111K ,"Cambridge, MA",84.5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,M
+Senior Data Engineer,$72K-$133K ,"Nashville, TN",102.5,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,na
+"Project Scientist - Auton Lab, Robotics Institute",$56K-$91K ,"Pittsburgh, PA",73.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,P
+Data Science Manager,$95K-$160K ,"Allentown, PA",127.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na
+Research Scientist – Security and Privacy,$61K-$126K ,"Beavercreek, OH",93.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,M
