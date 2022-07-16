@@ -1,0 +1,132 @@
+-- Creating tables for 2012 wages
+CREATE TABLE salary_2012 (
+ 	State VARCHAR(50) NOT NULL,
+ 	Occupation VARCHAR(200) NOT NULL,
+ 	Total_Employees real NOT NULL,
+	Hourly_Mean real NOT NULL,
+	Annual_Mean real NOT NULL,
+	Hourly_Median real NOT NULL,
+	Annual_Median real NOT NULL
+);
+drop table salary_2012
+
+select * from salary_2012
+
+
+-- Creating tables for 2013 wages
+CREATE TABLE salary_2013 (
+ 	State VARCHAR(50) NOT NULL,
+ 	Occupation VARCHAR(200) NOT NULL,
+ 	Total_Employees real NOT NULL,
+	Hourly_Mean real NOT NULL,
+	Annual_Mean real NOT NULL,
+	Hourly_Median real NOT NULL,
+	Annual_Median real NOT NULL
+);
+
+select * from salary_2013
+
+-- Creating tables for 2014 wages
+CREATE TABLE salary_2014 (
+ 	State VARCHAR(50) NOT NULL,
+ 	Occupation VARCHAR(200) NOT NULL,
+ 	Total_Employees real NOT NULL,
+	Hourly_Mean real NOT NULL,
+	Annual_Mean real NOT NULL,
+	Hourly_Median real NOT NULL,
+	Annual_Median real NOT NULL
+);
+
+select * from salary_2014
+
+-- Creating tables for 2015 wages
+CREATE TABLE salary_2015 (
+ 	State VARCHAR(50) NOT NULL,
+ 	Occupation VARCHAR(200) NOT NULL,
+ 	Total_Employees real NOT NULL,
+	Hourly_Mean real NOT NULL,
+	Annual_Mean real NOT NULL,
+	Hourly_Median real NOT NULL,
+	Annual_Median real NOT NULL
+);
+
+select * from salary_2015
+
+-- Creating tables for 2016 wages
+CREATE TABLE salary_2016 (
+ 	State VARCHAR(50) NOT NULL,
+ 	Occupation VARCHAR(200) NOT NULL,
+ 	Total_Employees real NOT NULL,
+	Hourly_Mean real NOT NULL,
+	Annual_Mean real NOT NULL,
+	Hourly_Median real NOT NULL,
+	Annual_Median real NOT NULL
+);
+
+select * from salary_2016
+
+-- Creating tables for 2017 wages
+CREATE TABLE salary_2017 (
+ 	State VARCHAR(50) NOT NULL,
+ 	Occupation VARCHAR(200) NOT NULL,
+ 	Total_Employees real NOT NULL,
+	Hourly_Mean real NOT NULL,
+	Annual_Mean real NOT NULL,
+	Hourly_Median real NOT NULL,
+	Annual_Median real NOT NULL
+);
+
+select * from salary_2017
+
+-- Creating tables for 2018 wages
+CREATE TABLE salary_2018 (
+ 	State VARCHAR(50) NOT NULL,
+ 	Occupation VARCHAR(200) NOT NULL,
+ 	Total_Employees real NOT NULL,
+	Hourly_Mean real NOT NULL,
+	Annual_Mean real NOT NULL,
+	Hourly_Median real NOT NULL,
+	Annual_Median real NOT NULL
+);
+
+select * from salary_2018
+
+-- Creating tables for 2019 wages
+CREATE TABLE salary_2019 (
+ 	State VARCHAR(50) NOT NULL,
+ 	Occupation VARCHAR(200) NOT NULL,
+ 	Total_Employees real NOT NULL,
+	Hourly_Mean real NOT NULL,
+	Annual_Mean real NOT NULL,
+	Hourly_Median real NOT NULL,
+	Annual_Median real NOT NULL
+);
+
+select * from salary_2019
+
+-- Creating tables for 2020 wages
+CREATE TABLE salary_2020 (
+ 	State VARCHAR(50) NOT NULL,
+ 	Occupation VARCHAR(200) NOT NULL,
+ 	Total_Employees real NOT NULL,
+	Hourly_Mean real NOT NULL,
+	Annual_Mean real NOT NULL,
+	Hourly_Median real NOT NULL,
+	Annual_Median real NOT NULL
+);
+
+select * from salary_2020
+
+-- Creating tables for 2021 wages
+CREATE TABLE salary_2021 (
+ 	State VARCHAR(50) NOT NULL,
+ 	Occupation VARCHAR(200) NOT NULL,
+ 	Total_Employees real NOT NULL,
+	Hourly_Mean real NOT NULL,
+	Annual_Mean real NOT NULL,
+	Hourly_Median real NOT NULL,
+	Annual_Median real NOT NULL
+);
+
+select * from salary_2021
+
