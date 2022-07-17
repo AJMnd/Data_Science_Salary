@@ -12,6 +12,16 @@ drop table salary_2012
 
 select * from salary_2012
 
+ALTER TABLE salary_2012
+ADD COLUMN Year integer NOT NULL DEFAULT 2012;
+SELECT * FROM salary_2012
+
+ALTER TABLE salary_2012
+ALTER COLUMN Total_Employees TYPE INT,
+ALTER COLUMN Annual_Mean TYPE INT,
+ALTER COLUMN Annual_Median TYPE INT
+
+select * from salary_2012
 
 -- Creating tables for 2013 wages
 CREATE TABLE salary_2013 (
@@ -23,6 +33,17 @@ CREATE TABLE salary_2013 (
 	Hourly_Median real NOT NULL,
 	Annual_Median real NOT NULL
 );
+
+select * from salary_2013
+
+ALTER TABLE salary_2013
+ADD COLUMN Year integer NOT NULL DEFAULT 2013;
+SELECT * FROM salary_2013
+
+ALTER TABLE salary_2013
+ALTER COLUMN Total_Employees TYPE INT,
+ALTER COLUMN Annual_Mean TYPE INT,
+ALTER COLUMN Annual_Median TYPE INT
 
 select * from salary_2013
 
@@ -39,6 +60,17 @@ CREATE TABLE salary_2014 (
 
 select * from salary_2014
 
+ALTER TABLE salary_2014
+ADD COLUMN Year integer NOT NULL DEFAULT 2014;
+SELECT * FROM salary_2014
+
+ALTER TABLE salary_2014
+ALTER COLUMN Total_Employees TYPE INT,
+ALTER COLUMN Annual_Mean TYPE INT,
+ALTER COLUMN Annual_Median TYPE INT
+
+select * from salary_2014
+
 -- Creating tables for 2015 wages
 CREATE TABLE salary_2015 (
  	State VARCHAR(50) NOT NULL,
@@ -49,6 +81,17 @@ CREATE TABLE salary_2015 (
 	Hourly_Median real NOT NULL,
 	Annual_Median real NOT NULL
 );
+
+select * from salary_2015
+
+ALTER TABLE salary_2015
+ADD COLUMN Year integer NOT NULL DEFAULT 2015;
+SELECT * FROM salary_2015
+
+ALTER TABLE salary_2015
+ALTER COLUMN Total_Employees TYPE INT,
+ALTER COLUMN Annual_Mean TYPE INT,
+ALTER COLUMN Annual_Median TYPE INT
 
 select * from salary_2015
 
@@ -65,6 +108,17 @@ CREATE TABLE salary_2016 (
 
 select * from salary_2016
 
+ALTER TABLE salary_2016
+ADD COLUMN Year integer NOT NULL DEFAULT 2016;
+SELECT * FROM salary_2016
+
+ALTER TABLE salary_2016
+ALTER COLUMN Total_Employees TYPE INT,
+ALTER COLUMN Annual_Mean TYPE INT,
+ALTER COLUMN Annual_Median TYPE INT
+
+select * from salary_2016
+
 -- Creating tables for 2017 wages
 CREATE TABLE salary_2017 (
  	State VARCHAR(50) NOT NULL,
@@ -75,6 +129,17 @@ CREATE TABLE salary_2017 (
 	Hourly_Median real NOT NULL,
 	Annual_Median real NOT NULL
 );
+
+select * from salary_2017
+
+ALTER TABLE salary_2017
+ADD COLUMN Year integer NOT NULL DEFAULT 2017;
+SELECT * FROM salary_2017
+
+ALTER TABLE salary_2017
+ALTER COLUMN Total_Employees TYPE INT,
+ALTER COLUMN Annual_Mean TYPE INT,
+ALTER COLUMN Annual_Median TYPE INT
 
 select * from salary_2017
 
@@ -91,6 +156,17 @@ CREATE TABLE salary_2018 (
 
 select * from salary_2018
 
+ALTER TABLE salary_2018
+ADD COLUMN Year integer NOT NULL DEFAULT 2018;
+SELECT * FROM salary_2018
+
+ALTER TABLE salary_2018
+ALTER COLUMN Total_Employees TYPE INT,
+ALTER COLUMN Annual_Mean TYPE INT,
+ALTER COLUMN Annual_Median TYPE INT
+
+select * from salary_2018
+
 -- Creating tables for 2019 wages
 CREATE TABLE salary_2019 (
  	State VARCHAR(50) NOT NULL,
@@ -101,6 +177,17 @@ CREATE TABLE salary_2019 (
 	Hourly_Median real NOT NULL,
 	Annual_Median real NOT NULL
 );
+
+select * from salary_2019
+
+ALTER TABLE salary_2019
+ADD COLUMN Year integer NOT NULL DEFAULT 2019;
+SELECT * FROM salary_2019
+
+ALTER TABLE salary_2019
+ALTER COLUMN Total_Employees TYPE INT,
+ALTER COLUMN Annual_Mean TYPE INT,
+ALTER COLUMN Annual_Median TYPE INT
 
 select * from salary_2019
 
@@ -117,6 +204,17 @@ CREATE TABLE salary_2020 (
 
 select * from salary_2020
 
+ALTER TABLE salary_2020
+ADD COLUMN Year integer NOT NULL DEFAULT 2020;
+SELECT * FROM salary_2020
+
+ALTER TABLE salary_2020
+ALTER COLUMN Total_Employees TYPE INT,
+ALTER COLUMN Annual_Mean TYPE INT,
+ALTER COLUMN Annual_Median TYPE INT
+
+select * from salary_2020
+
 -- Creating tables for 2021 wages
 CREATE TABLE salary_2021 (
  	State VARCHAR(50) NOT NULL,
@@ -127,6 +225,17 @@ CREATE TABLE salary_2021 (
 	Hourly_Median real NOT NULL,
 	Annual_Median real NOT NULL
 );
+
+select * from salary_2021
+
+ALTER TABLE salary_2021
+ADD COLUMN Year integer NOT NULL DEFAULT 2021;
+SELECT * FROM salary_2021
+
+ALTER TABLE salary_2021
+ALTER COLUMN Total_Employees TYPE INT,
+ALTER COLUMN Annual_Mean TYPE INT,
+ALTER COLUMN Annual_Median TYPE INT
 
 select * from salary_2021
 
