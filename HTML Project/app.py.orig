@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+from flask import Flask, render_template
+
+app = Flask(__name__)
+
+@app.route("/")
+def home():
+    return render_template("index.html")
+
+@app.route("/about")
+def about():
+    return render_template("about.html")
+
+if __name__ == "__main__":
+    app.run(debug=True)
+=======
 # Importing Flask and other dependencies
 
 from flask import Flask, render_template
@@ -15,7 +31,7 @@ app = Flask(__name__)
 @app.route("/")
 # @app.route("/home")
 def home():
-    return render_template('index.html')
+    return 'Economy in America Analysis'
 
 
 @app.route("/about")
@@ -30,3 +46,4 @@ def data():
 
 if __name__ == "__main__":
         app.run(debug=True)
+>>>>>>> 77ce93fd752d4b42d17e62f2d93a711023e7671f
