@@ -1,121 +1,95 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU"
-      crossorigin="anonymous"
-    />
-    <!-- {% extends "base.html" %} {% set active_page = "Index" %} {% block content %} -->
-    <link href="static/css/style.css" rel="stylesheet" />
-    <script
-      src="https://kit.fontawesome.com/8502dc2626.js"
-      crossorigin="anonymous"
-    ></script>
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css?family=Sofia%7CUrbanist%7CBangers%7CPatrick+Hand&display=swap"
-    />
-    <title>Home</title>
-    <body>
-      <!-- <h2>Data Science Salary</h2>
+{% extends "base.html" %}
+{% set active_page = "Home" %}
+{% block content %}
+<!-- <h2>Data Science Salary</h2> -->
 
 
-    <div class="dropdown-content">
-    <p>Summary of Findings</p>
-  </div>
+<div class="dropdown-content">
+<p>Summary of Findings</p>
+</div>
 
 
-    <select class="js-example-basic-multiple" multiple="multiple">
-      <option value="US">United States</option>
-      <option value="IND">India</option>
-      <option value="GBR">Great Britain</option>
-    </select>
+<select class="js-example-basic-multiple" multiple="multiple">
+  <option value="US">United States</option>
+  <option value="IND">India</option>
+  <option value="GBR">Great Britain</option>
+</select>
 
-    <select class="select" multiple data-mdb-placeholder="Example placeholder" multiple>
-      <option value="1">One</option>
-      <option value="2">Two</option>
-      <option value="3">Three</option>
-      <option value="4">Four</option>
-      <option value="5">Five</option>
-    </select>
-     -->
-      <!-- Favourite color:	 -->
-      <!-- <SELECT name="ddl">
-    <option value='blue'>Blue</option>
-    <option value='green'>Green</option>
-    <option value='red'>Red</option>
-    <option value='yellow'>Yelllow</option>
-    <option value='' selected>Select a Color </option>
-    <option value='white'>White</option>
-    </SELECT>
+<select class="select" multiple data-mdb-placeholder="Example placeholder" multiple>
+  <option value="1">One</option>
+  <option value="2">Two</option>
+  <option value="3">Three</option>
+  <option value="4">Four</option>
+  <option value="5">Five</option>
+</select>
 
-       
-        <div class="frame">
-          <a target="_blank" href="{{url_for('static', filename='images/img_5terre.jpg')}}">
-            <img src="{{url_for('static', filename='images/img_5terre.jpg')}}" alt="Chart 1">
-          </a>
-          <div class="desc">Example 1</div>
-        </div>
+    <!-- Favourite color:	 -->
+<SELECT name="ddl">
+<option value='blue'>Blue</option>
+<option value='green'>Green</option>
+<option value='red'>Red</option>
+<option value='yellow'>Yelllow</option>
+<option value='' selected>Select a Color </option>
+<option value='white'>White</option>
+</SELECT>
 
-        <div class="frame">
-            <a target="_blank" href="{{url_for('static', filename='images/img_forest.jpg')}}">
-              <img src="{{url_for('static', filename='images/img_forest.jpg')}}" alt="Chart 2">
-            </a>
-            <div class="desc">Example 2</div>
-          </div>
-        
-          <div class="frame">
-            <a target="_blank" href="{{url_for('static', filename='images/img_mountains.jpg')}}">
-              <img src="{{url_for('static', filename='images/img_mountains.jpg')}}" alt="Chart 3">
-            </a>
-            <div class="desc">Example 3</div>
-          </div>
-          
-          <div class="frame">
-            <a target="_blank" href="{{url_for('static', filename='images/img_lights.jpg')}}">
-              <img src="{{url_for('static', filename='images/img_lights.jpg')}}" alt="Chart 4">
-            </a>
-            <div class="desc">Example 4</div>
-          </div>
+   
+    <div class="frame">
+      <a target="_blank" href="{{url_for('static', filename='images/img_5terre.jpg')}}">
+        <img src="{{url_for('static', filename='images/img_5terre.jpg')}}" alt="Chart 1">
+      </a>
+      <div class="desc">Example 1</div>
+    </div>
+
+    <div class="frame">
+        <a target="_blank" href="{{url_for('static', filename='images/img_forest.jpg')}}">
+          <img src="{{url_for('static', filename='images/img_forest.jpg')}}" alt="Chart 2">
+        </a>
+        <div class="desc">Example 2</div>
+      </div>
+    
+      <div class="frame">
+        <a target="_blank" href="{{url_for('static', filename='images/img_mountains.jpg')}}">
+          <img src="{{url_for('static', filename='images/img_mountains.jpg')}}" alt="Chart 3">
+        </a>
+        <div class="desc">Example 3</div>
+      </div>
+      
+      <div class="frame">
+        <a target="_blank" href="{{url_for('static', filename='images/img_lights.jpg')}}">
+          <img src="{{url_for('static', filename='images/img_lights.jpg')}}" alt="Chart 4">
+        </a>
+        <div class="desc">Example 4</div>
+      </div>
 
  -->
 
       <!-- </style> -->
 
-      <!-- <button class="button button1">Machine Learning</button>(made buttons clickable) -->
-      <!-- <a href="machine_learning.html">
-          <button>Machine Learning</button>
-          </a> 
+      </style>
+      
+      <button class="button button1">Machine Learning</button>(made buttons clickable)
+    <a href="machine_learning.html">
+      <button>Machine Learning</button>
+      </a> 
 
-          <a href="https://github.com/AJMnd/Data_Science_Salary">
-          <button>GitHub</button>
-          </a> 
+      <a href="https://github.com/AJMnd/Data_Science_Salary">
+      <button>GitHub</button>
+      </a> 
 
-          <a href="tableau.html">
-          <button>Tableau</button>
-          </a> 
+      <a href="tableau.html">
+      <button>Tableau</button>
+      </a> 
 
-          <a href="data.html">
-          <button>Data</button>
-          </a> 
+      <a href="data.html">
+      <button>Data</button>
+      </a> 
 
-          <h1>Conclusion</h1>
-          <p>Data Science is a field of employment that will be around for a long time.</p>
+      <h1>Conclusion</h1>
+      <p>Data Science is a field of employment that will be around for a long time.</p>
 
-          
-<a class="page-link" href="/about">About Our Team</a>
-        </div> -->
-      <script
-        src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js"
-        integrity="sha384-skAcpIdS7UcVUC05LJ9Dxay8AXcDYfBJqt1CJ85S/CFujBsIzCIv+l9liuYLaMQ/"
-        crossorigin="anonymous"
-      ></script>
-      <!-- {% endblock content %} -->
-    </body>
-  </head>
-</html>
+      
+<a class="page-link" href="about.html">About Our Team</a>
+    </div>
+<script src="{{url_for('static', filename='js/home.js')}}"></script>
+{% endblock %}
