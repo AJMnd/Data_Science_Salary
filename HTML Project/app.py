@@ -15,7 +15,7 @@ app = Flask(__name__)
 engine = create_engine("database-1.c8vbe2aqcoj9.us-west-1.rds.amazonaws.com")
 
 # need password, port, and username
-`postgresql://user_name:password@aws_url/database_name`
+# `postgresql://user_name:password@aws_url/database_name`
 Base = automap_base()
 Base.prepare(engine, reflect=True)
 Measurement = Base.classes.measurement
