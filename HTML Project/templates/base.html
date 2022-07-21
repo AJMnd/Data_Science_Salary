@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,7 +20,7 @@
 ('machine_learning_link_goes_here','Model')]-%}
 
 
-<body style='background-color: #1c1c1c;'>
+<body style='background-color: #aef1f5;'>
   <nav class="navbar navbar-expand-lg navbar-dark fixed-top" style='background-color: #ffffff00;'>
     <div class="container-fluid">
       <a class="navbar-brand" href="/">Economy in USA</a>
@@ -32,7 +32,7 @@
           {% for href, title in navigation_bar %}
           {% if title == active_page %}
           <li class="nav-item">
-            <a class="nav-link" href="{{ href|e }}" style='color: #fff;'>{{ title|e }}<span class="sr-only"></span></a>
+            <a class="nav-link" href="{{ href|e }}" style='color: #0a0000;'>{{ title|e }}<span class="sr-only"></span></a>
           </li>
           {% else %}
           <li class="nav-item">
@@ -44,12 +44,15 @@
       </div>
     </div>
   </nav>
-  <main role="main" class="container">
+  <!-- <main role="main" class="container"> -->
+    <div style="margin-top: 60px; display:block" role="main" class="container">
+
     <!-- Unique Content -->
     {% block content %}
     {% endblock %}
     <!-- End Unique Content -->
-  </main>
+</div>
+  <!-- </main> -->
   <!-- Bootstrap core JavaScript
     ================================================== -->
   <!-- Placed at the end of the document so the pages load faster -->
