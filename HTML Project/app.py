@@ -22,6 +22,20 @@ app = Flask(__name__)
 # Station = Base.classes.station
 # session = Session(engine)
 
+# Updated api -------
+df = pd.read_csv("s3://final-project-data-science/dataScience_2012_2021.csv")
+
+# Create main route
+# @app.route("/occupation")
+# def occupation():
+#     return df.to_json()
+
+# User wants to filter data
+@app.route('/occupation/<name>')
+def api(name):
+    return df.query("occupation == {name}").to_json()
+
+# End api-----------
 
 @app.route("/")
 @app.route("/index")
