@@ -1,28 +1,97 @@
-<!DOCTYPE html> -->
-<html lang="en">
-  <head>
-    <head>
-        <title>HTML Backgorund Color</title>
-     </head>
-     <body style="background-color:rgb(12, 129, 133);">
-    <meta charset="utf-8">
-    <title>About Our Team</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <h1>Meet Our Team</h1>
-    <div class="frame">
-        <a target="_blank" href="images/group6.jpg">
-          <img src="images/group6.jpg" alt="Cinque Terre" width="300" height="200">
-        </a>
-        <div class="desc">We want to thank Mohan, Alan, Ryan and Annu For all your help and support during this class.</div>
-      </div>
-    <p class="about.html"> Thanks for peeking, feel free to reach out to us. </p>
-    <p class="about.html"> Alicia: alicia.m@ucsd.com </p>
-    <p class="about.html"> Joseph: joseph.b@ucsd.com </p>
-    <p class="about.html"> Pete: pete.c@ucsd.com </p>
-    <p class="about.html"> Tony: tony.g@ucsd.com </p>
-    <a href="about.html"> Home</a>
-  </body>
-</html>  -->
+{% extends "base.html" %}
+{% set active_page = "About" %}
+{% block content %}
+<link rel="stylesheet" href="{{url_for('static', filename='css/about.css')}}" />
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+<div class="team-area sp">
+   <div class="container">
+      <div class="row">
+         <div class="col-sm-6 col-md-4 col-lg-3 single-team">
+            <div class="inner">
+               <div class="team-img">
+                  <!-- <img src="https://ryan.zernach.com/wp-content/uploads/characteredit.png" alt="Member Photo"> -->
+                  <a target="_blank" href="{{url_for('static', filename='images/am2.jpg')}}">
+                    <img src="{{url_for('static', filename='images/am2.jpg')}}" alt="Chart 1">
+                  </a>
+               </div>
+               <div class="team-content">
+                  <h4>Alicia Mejia</h4>
+                  <h5>Data Analyst</h5>
+                  <div class="team-social">
+                     <a href="https://github.com/AJMnd" class="fa fa-github"></a>
+                    <!-- https://github.com/AJMnd -->
+                     <a href="https://www.linkedin.com/in/alicia-mejia-54333516a/" class="fa fa-linkedin"></a>
+                     <!-- https://www.linkedin.com/in/alicia-mejia-54333516a/ -->
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-md-4 col-lg-3 single-team">
+            <div class="inner">
+               <div class="team-img">
+                  <!-- <img src="https://ryan.zernach.com/wp-content/uploads/characteredit2.png" alt="Member Photo"> -->
+                  <a target="_blank" href="{{url_for('static', filename='images/jb2.jpg')}}">
+                    <img src="{{url_for('static', filename='images/jb2.jpg')}}" alt="Chart 1">
+                  </a>
+               </div>
+               <div class="team-content">
+                  <h4>Joseph Becerra</h4>
+                  <h5>Data Analyst</h5>
+                  <div class="team-social">
+                     <a href="https://github.com/jojosaurusrex" class="fa fa-github"></a>
+                     <!-- https://github.com/jojosaurusrex -->
+                     <a href="https://www.linkedin.com/in/joseph-becerra-23b60055/" class="fa fa-linkedin"></a>
+                     <!-- https://www.linkedin.com/in/joseph-becerra-23b60055/ -->
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-md-4 col-lg-3 single-team">
+            <div class="inner">
+               <div class="team-img">
+                  <!-- <img src="https://ryan.zernach.com/wp-content/uploads/characteredit2.png" alt="Member Photo"> -->
+                  <a target="_blank" href="{{url_for('static', filename='images/pc2.jpg')}}">
+                    <img src="{{url_for('static', filename='images/pc2.jpg')}}" alt="Chart 1">
+                  </a>
+               </div>
+               <div class="team-content">
+                  <h4>Pedro Canales</h4>
+                  <h5>Data Analyst</h5>
+                  <div class="team-social">
+                    <a href="https://github.com/Zorro1701e" class="fa fa-github"></a>
+                    <!-- https://github.com/Zorro1701e -->
+                     <a href="https://www.linkedin.com/in/pedro-canales-239578236/" class="fa fa-linkedin"></a>
+                    <!-- https://www.linkedin.com/in/pedro-canales-239578236/ -->
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-md-4 col-lg-3 single-team">
+            <div class="inner">
+               <div class="team-img">
+                  <!-- <img src="https://ryan.zernach.com/wp-content/uploads/characteredit2.png" alt="Member Photo"> -->
+                  <a target="_blank" href="{{url_for('static', filename='images/wg2.jpg')}}">
+                    <img src="{{url_for('static', filename='images/wg2.jpg')}}" alt="Chart 1">
+                  </a>
+               </div>
+               <div class="team-content">
+                  <h4>William Garcia</h4>
+                  <h5>Data Analyst</h5>
+                  <div class="team-social">
+                    <a href="https://github.com/Acromic" class="fa fa-github" aria-hidden="true"></a>
+                     <!-- https://github.com/Acromic -->
+                     <a href="https://www.linkedin.com/in/w-a-garcia/" class="fa fa-linkedin"></a>
+                     <!-- https://www.linkedin.com/in/w-a-garcia/ -->
+                  </div>
+               </div>
+            </div>
+         </div>
 
+
+                    
+
+
+
+</div>
+<script src="{{url_for('static', filename='js/about.js')}}"></script>
+{% endblock %}

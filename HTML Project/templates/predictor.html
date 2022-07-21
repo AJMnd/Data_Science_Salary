@@ -1,0 +1,92 @@
+{% extends "base.html" %}
+{% set active_page = "Predictor" %}
+{% block content %}
+<link rel="stylesheet" href="{{url_for('static', filename='css/predictor.css')}}" />
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+<script src="https://kit.fontawesome.com/8502dc2626.js" crossorigin="anonymous"></script>
+<link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Sofia|Urbanist|Bangers|Patrick+Hand&display=swap" />
+
+<div class="container">
+    <div class="row" id="inputMenu">
+
+        <!-- User Inputs -->
+        <div class="col-sm scenario">
+            <h2>Choose Your Scenario</h2>
+            <hr>
+            <div class="row">
+                <div class="col-sm">
+                    <div class="container inputBox" id="dropdownStyle">
+                        <h4>Store</h4>
+                        <div id="inputBox">
+                            <select id="selStore1"></select>
+                        </div>
+                        <h4>Product</h4>
+                        <div id="inputBox">
+                            <select id="selProduct1"></select>
+                        </div>
+                        <h4>Week of Year</h4>
+                        <div id="inputBox">
+                            <select id="selWeek1"></select>
+                        </div>
+                        <h4>Holiday</h4>
+                        <div id="inputBox">
+                            <select id="selHoliday1">
+                                <option value=1>Yes</option>
+                                <option value=0>No</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm">
+                    <div class="container inputBox" id="dropdownStyle">
+                        <h4>Base Price</h4>
+                        <div id="inputBox">
+                            <input type="number" id="basePrice1" name="Base Price" required step="0.01" min="1"
+                                max="50">
+                        </div>
+                        <h4>Price</h4>
+                        <div id="inputBox">
+                            <input type="number" id="price1" name="Promotional Price" required step="0.01" min="1"
+                                max="50">
+                        </div>
+                        <h4>Cost</h4>
+                        <div id="inputBox">
+                            <input type="number" id="cost1" name="Cost" required step="0.01" min="1" max="50">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="buttonBox">
+                <button type="button" class="p1" style="margin: auto;">Predict!</button>
+            </div>
+        </div>
+        <div class="col-sm results">
+            <div class="container">
+                <h2>Predicted Results</h2>
+                <hr>
+                <div class="container" id="resultsContainer">
+                    <div id="modelResults1"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+</body>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+<script src="../static/js/predictor.js"></script>
+{% endblock %}

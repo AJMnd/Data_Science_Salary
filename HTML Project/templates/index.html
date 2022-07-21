@@ -3,17 +3,31 @@
 {% block content %}
 <!-- <h2>Data Science Salary</h2> -->
 
-
-<div class="dropdown-content">
+<link href="static/css/home.css" rel="stylesheet" /><script src="https://kit.fontawesome.com/8502dc2626.js" crossorigin="anonymous"></script><link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Sofia%7CUrbanist%7CBangers%7CPatrick+Hand&display=swap" /><title>Home</title></head>
+<div>
+  <div class="jumbotron">
+    <h1 class="display-4">Summary of Findings</h1>
+  </div>
+<!-- <div class="dropdown-content">
 <p>Summary of Findings</p>
-</div>
+</div> -->
 
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-3">
+      <div class="filters">
+        <form style="background-color: #aef1f5;">
+          <p>Filter Search</p>
+          <ul class="list-group">
+            <li class="list-group-item">
 
-<select class="js-example-basic-multiple" multiple="multiple">
-  <option value="US">United States</option>
-  <option value="IND">India</option>
-  <option value="GBR">Great Britain</option>
-</select>
+              <select class="js-example-basic-multiple" multiple="multiple">
+                <option value="US">United States</option>
+                <option value="IND">India</option>
+                <option value="GBR">Great Britain</option>
+              </select>
+            </li>
+            <li class="list-group-item bg-dark">
 
 <select class="select" multiple data-mdb-placeholder="Example placeholder" multiple>
   <option value="1">One</option>
@@ -23,51 +37,60 @@
   <option value="5">Five</option>
 </select>
 
+</li>
+<li class="list-group-item bg-dark">
+
     <!-- Favourite color:	 -->
-<SELECT name="ddl">
+<select name="ddl">
 <option value='blue'>Blue</option>
 <option value='green'>Green</option>
 <option value='red'>Red</option>
 <option value='yellow'>Yelllow</option>
 <option value='' selected>Select a Color </option>
 <option value='white'>White</option>
-</SELECT>
+</select>
 
-   
-    <div class="frame">
+</li>
+
+</ul>
+</form>
+</div>
+</div>
+<div class="col-md-9">
+
       <a target="_blank" href="{{url_for('static', filename='images/img_5terre.jpg')}}">
         <img src="{{url_for('static', filename='images/img_5terre.jpg')}}" alt="Chart 1">
       </a>
       <div class="desc">Example 1</div>
     </div>
+  </div>
 
-    <div class="frame">
         <a target="_blank" href="{{url_for('static', filename='images/img_forest.jpg')}}">
           <img src="{{url_for('static', filename='images/img_forest.jpg')}}" alt="Chart 2">
         </a>
         <div class="desc">Example 2</div>
       </div>
     
-      <div class="frame">
+
         <a target="_blank" href="{{url_for('static', filename='images/img_mountains.jpg')}}">
           <img src="{{url_for('static', filename='images/img_mountains.jpg')}}" alt="Chart 3">
         </a>
         <div class="desc">Example 3</div>
       </div>
       
-      <div class="frame">
+
         <a target="_blank" href="{{url_for('static', filename='images/img_lights.jpg')}}">
           <img src="{{url_for('static', filename='images/img_lights.jpg')}}" alt="Chart 4">
         </a>
         <div class="desc">Example 4</div>
       </div>
 
- -->
+
 
       <!-- </style> -->
 
       </style>
-      
+<!--       
       <button class="button button1">Machine Learning</button>(made buttons clickable)
     <a href="machine_learning.html">
       <button>Machine Learning</button>
@@ -83,13 +106,16 @@
 
       <a href="data.html">
       <button>Data</button>
-      </a> 
+      </a>  -->
 
       <h1>Conclusion</h1>
       <p>Data Science is a field of employment that will be around for a long time.</p>
 
       
-<a class="page-link" href="about.html">About Our Team</a>
+<!-- <a class="page-link" href="about.html">About Our Team</a> -->
     </div>
 <script src="{{url_for('static', filename='js/home.js')}}"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js"    integrity="sha384-skAcpIdS7UcVUC05LJ9Dxay8AXcDYfBJqt1CJ85S/CFujBsIzCIv+l9liuYLaMQ/"    crossorigin="anonymous"></script>
+
 {% endblock %}

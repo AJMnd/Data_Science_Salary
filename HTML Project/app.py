@@ -37,9 +37,15 @@ def about():
 def data():
     return render_template('data.html')
 
+@app.route("/predictor")
+def predictor():
+    return render_template('predictor.html')
+
 @app.errorhandler(404)
 def page_not_found(error):
     return render_template('404.html'), 404
+
+
 
 if __name__ == "__main__":
         app.run(debug=True)
