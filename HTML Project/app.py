@@ -1,26 +1,39 @@
 # Importing Flask and other dependencies
-from flask import Flask, render_template
-from flask_sqlalchemy import SQLAlchemy
+import datetime as dt
+import numpy as np
+import pandas as pd
+from sqlalchemy.ext.automap import automap_base
+from sqlalchemy.orm import Session
+from sqlalchemy import create_engine, func
+from flask import Flask, jsonify, render_template
 #################################################
 # Flask Setup Creating flask app instance
 #################################################
 
 app = Flask(__name__)
-
 #################################################
 # Flask Routes
 #################################################
-
 #  Database
-app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-app.config['SQLALCHEMY_DATABASE_URI']='postgresql://user_name:password@database-1.c8vbe2aqcoj9.us-west-1.rds.amazonaws.com'
+engine = create_engine("postgresql://postgres:Password1!@database-1.c8vbe2aqcoj9.us-west-1.rds.amazonaws.com/datasciencesalary")
+Base = automap_base()
+Base.prepare(engine, reflect=True)
+# Measurement = Base.classes.measurement
+# Station = Base.classes.station
+session = Session(engine)
+print(Base.classes.keys())
+
+# app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+# app.config['SQLALCHEMY_DATABASE_URI']=
 #  Init Database
-db=SQLAlchemy(app)
+# db=SQLAlchemy(app)
 #  Class/Model
-class results(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String(100), unique=True)
-    description = db.
+
+
+# id = db.Column(db.Integer, primary_key=True)
+# name = db.Column(db.String(100), unique=True)
+# description = db.
+
 
 # Updated api -------
 # df = pd.read_csv("s3://final-project-data-science/dataScience_2012_2021.csv")
@@ -30,7 +43,8 @@ class results(db.Model):
 # def occupation():
 #     return df.to_json()
 
-# User wants to filter data
+# wwww.something/occupation/dogs
+
 # @app.route('/occupation/<wage>')
 # def api(wage):
 #     return df.query("occupation == {wage}").to_json()
