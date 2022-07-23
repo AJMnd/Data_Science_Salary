@@ -5,3 +5,14 @@ body {
 .page-link {
     font-size: 20px; color:#500000;
 }
+
+.nav-link {
+    color:white !important;
+}
+
+.list-group-item {
+    background-color: #00000000;
+}
+
+<body>
+    
