@@ -2,6 +2,7 @@
 import datetime as dt
 import numpy as np
 import pandas as pd
+from config import db_password
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
@@ -15,7 +16,7 @@ app = Flask(__name__)
 # Flask Routes
 #################################################
 #  Database
-engine = create_engine("postgresql://postgres:Password1!@database-1.c8vbe2aqcoj9.us-west-1.rds.amazonaws.com/datasciencesalary")
+engine = create_engine(f"postgresql://postgres:{db_password}@database-1.c8vbe2aqcoj9.us-west-1.rds.amazonaws.com/datasciencesalary")
 Base = automap_base()
 Base.prepare(engine, reflect=True)
 # Measurement = Base.classes.measurement
@@ -23,8 +24,7 @@ Base.prepare(engine, reflect=True)
 session = Session(engine)
 print(Base.classes.keys())
 
-# app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-# app.config['SQLALCHEMY_DATABASE_URI']=
+
 #  Init Database
 # db=SQLAlchemy(app)
 #  Class/Model
@@ -45,9 +45,12 @@ print(Base.classes.keys())
 
 # wwww.something/occupation/dogs
 
-# @app.route('/occupation/<wage>')
-# def api(wage):
-#     return df.query("occupation == {wage}").to_json()
+@app.route('/data')
+def api():
+    conn = engine.connect()
+    salary_mergeddf = pd.read_sql("select distinct state from salary_2012_2021 ", conn)
+    conn.close()
+    return salary_mergeddf.to_html()
 
 
 # End api-----------
