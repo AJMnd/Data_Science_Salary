@@ -2,6 +2,22 @@ body {
     background-color: #aef1f5;;
 }
 
+p {
+    width: max-content;
+}
 .page-link {
     font-size: 20px; color:#500000;
 }
+
+.nav-link {
+    color:white !important;
+}
+
+.list-group-item {
+    background-color: #00000000;
+}
+
+.tableauPlaceholder {
+    width: 80vw !important;
+}
+    
