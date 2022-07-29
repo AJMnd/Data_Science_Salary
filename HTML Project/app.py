@@ -48,11 +48,12 @@ print(Base.classes.keys())
 @app.route('/data')
 def api():
     conn = engine.connect()
-    salary_mergeddf = pd.read_sql("select state, occupation, annual_median from salary_2012_2021 where year = 2021 order by annual_median desc limit 5 ", conn)
-    asc_salary_mergeddf = pd.read_sql("select state, occupation, annual_median from salary_2012_2021 where year = 2021 order by annual_median asc limit 5 ", conn)
+    salary_mergeddf = pd.read_sql("select state, occupation, annual_median from salary_2012_2021 where year = 2021 order by annual_median desc limit 26 ", conn)
+    # asc_salary_mergeddf = pd.read_sql("select state, occupation, annual_median from salary_2012_2021 where year = 2021 order by annual_median asc limit 5 ", conn)
 
     conn.close()
-    return render_template('data.html', salary_mergeddf, asc_salary_mergeddf)
+    return salary_mergeddf.to_html()
+    # return render_template('data.html', salary_mergeddf, asc_salary_mergeddf)
 
 
 # End api-----------
