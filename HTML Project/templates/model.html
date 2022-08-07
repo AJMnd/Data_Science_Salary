@@ -1,50 +1,121 @@
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <style>
-<div class='something'>
-<img src="Images\MyImage.jpg" id="bg">
-</div>
-        </style>
-        <meta charset="utf-8">
-        <title>About Our Team</title>
-        <link rel="stylesheet" href="style.css">
-
-            </style>
-    
-      <body>
-
-        <div class="frame">
-            <a target="_blank" href="images/tableau.logo.jpg">
-              <img src="images/tableau.logo.jpg" alt="Cinque Terre" width="300" height="200">
-            </a>
-
-            <h1>The Money Maker</h1>
-            <div class="desc">These are the awesome tableau interactive garphs and stuff.</div>
-    
- 
-
-<a href="index.html"> Back Home</a>
-</body>
-</html> -->
-
 {% extends "base.html" %}
 {% set active_page = "About" %}
 {% block content %}
-<link rel="stylesheet" href="{{url_for('static', filename='css/about.css')}}" />
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 
-<!-- Jinja2 stuff related to generating nav and setting active state. Add more pages here! -->
-<!-- {% set navigation_bar = [ ('/', 'Home'), ('/predictor', 'Predictor'),
-('/data', 'Data'), ('/about', 'About'),
-('machine_learning_link_goes_here','Model')]-%} -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="American Economy Analysis" />
+    <title>Our Github Repository</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Machine Learning</title>
+    <head>
+        <head>
+            <title>HTML Backgorund Color</title>
+         </head>
+         <body style="background-color:white;">
+        <meta charset="utf-8">
+        <title>About Our Team</title>
+        <link rel="stylesheet" href="style.css">
+      </head>
+      <body>
+        <h1>Machine Learning</h1>
+        <div class="container">
+          <div class="row">
+             <div class="col-sm-6 col-md-4 col-lg-3 single-team">
+                <div class="inner">
+                   <div class="team-img">
+                      <a target="_blank" href="{{url_for('static', filename='images/Model.png')}}">
+                        <img src="{{url_for('static', filename='images/Model.png')}}" alt="machineLearningModel">
+                      </a>
+                   </div>
+        
+                      </div>
+                   </div>
+                </div>
+             </div>
+            </li>
+            <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+        <div class="container">
+          <div class="row">
+              <div class="col-sm-6 col-md-4 col-lg-3 single-team">
+                <div class="inner">
+                    <div class="team-img">
+                      <a target="_blank" href="{{url_for('static', filename='images/alldatadf.png')}}">
+                        <img src="{{url_for('static', filename='images/alldatadf.png')}}" alt="alldatadf">
+                      </a>
+                      <div class="desc">Merged Data</div>
+                    </div>
+        
+                      </div>
+                    </div>
+                </div>
+              </div>
+            </li>
+          
 
+            <div class='tableauPlaceholder' id='viz1659045384729' style='position: relative'><noscript><a href='#'><img alt='Annual Mean ' 
+              src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finalProject_16588885943450&#47;AnnualMean&#47;1_rss.png' style='border: none' />
+            </a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' />
+               <param name='site_root' value='' /><param name='name' value='finalProject_16588885943450&#47;AnnualMean' /><param name='tabs' value='no' /><param name='toolbar' value='yes' />
+               <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;finalProject_16588885943450&#47;AnnualMean&#47;1.png' /> 
+               <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' />
+               <param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' />
+              </object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1659045384729');                    
+              var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+              var scriptElement = document.createElement('script');                    
+              scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+              vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+            <p>
+            </p>
+            
+</head>
+
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+<body>
+  <h1>Predictor</h1>
+
+<div class="container">
+  <div class="row">
+     <div class="col-sm-6 col-md-4 col-lg-3 single-team">
+        <div class="inner">
+           <div class="team-img">
+              <a target="_blank" href="{{url_for('static', filename='images/UnderConstrunction.jpg')}}">
+                <img src="{{url_for('static', filename='images/UnderConstrunction.jpg')}}" alt="UnderConstrunction">
+              </a>
+           </div>
+
+              </div>
+           </div>
+        </div>
+     </div>
+    </li>
+    <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+    <div class="container">
+      <div class="row">
+          <div class="col-sm-6 col-md-4 col-lg-3 single-team">
+            <div class="inner">
+                <div class="team-img">
+                  <a target="_blank" href="{{url_for('static', filename='images/R&D.png')}}">
+                    <img src="{{url_for('static', filename='images/R&D.png')}}" alt="R&D">
+                  </a>
+                </div>
+    
+                  </div>
+                </div>
+            </div>
+          </div>
+        </li>
+</body>
+</html>
+{% endblock %}
 
 
                     
 
 
 
-</div>
-<script src="{{url_for('static', filename='js/about.js')}}"></script>
-{% endblock %}

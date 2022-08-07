@@ -1,6 +1,26 @@
-body {
-    background-color: #aef1f5;;
+.hero {
+    height:100vh;
 }
+.hero::before {
+    content:"";
+    /* background-image:url("../images/texture.jpg");  */
+    /* height:100%;
+    overflow: hidden; */
+    background-color: rgba(130,159,160, 0.9);
+    /* opacity: 0.5;
+    background-blend-mode:soft-light; */
+   
+    /* "{{url_for('static', filename='images/.jpg')}}"> */
+    /* <a target="_blank" href="{{url_for('static', filename='images/wg3.jpg')}}"></a> */
+}
+
+.logos{
+    width: 80vw;
+}
+/* body:before {
+    background-color: #aef1f5;
+    opacity: 0.9;
+} */
 
 p {
     width: max-content;
